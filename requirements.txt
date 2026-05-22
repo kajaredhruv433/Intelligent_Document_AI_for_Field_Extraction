@@ -1,0 +1,21 @@
+# Python
+python>=3.9
+
+# Core numerical
+numpy>=1.23.0
+
+# Computer Vision
+opencv-python>=4.8.0
+
+# YOLOv8 (Object Detection)
+ultralytics>=8.0.200
+
+# OCR (English + Indic languages)
+paddlepaddle>=2.5.0
+paddleocr>=2.7.0
+
+# Text similarity
+rapidfuzz>=3.5.0
+
+# Utilities
+tqdm>=4.65.0

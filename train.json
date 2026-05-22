@@ -1,0 +1,8327 @@
+[
+  {
+    "confidence": 0.52,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172427893_3_pg11",
+    "fields": {
+      "asset_cost": 801815,
+      "dealer_name": "The Odisha Agro Industries Corporation Ltd.",
+      "horse_power": 48,
+      "model_name": "Swaraj 744 FE",
+      "signature": {
+        "bbox": [
+          820,
+          1405,
+          1050,
+          1480
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          766,
+          1387,
+          1103,
+          1599
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 4.8
+  },
+  {
+    "confidence": 0.49,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172448470_3_pg15",
+    "fields": {
+      "asset_cost": 6646,
+      "dealer_name": "THE ORISSA AGRO INDUSTRIES CORPORATION LTD.",
+      "horse_power": 17,
+      "model_name": "VST MT 171",
+      "signature": {
+        "bbox": [
+          909,
+          1174,
+          1185,
+          1278
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          625,
+          1235,
+          1194,
+          1389
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 16.18
+  },
+  {
+    "confidence": 0.46,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172561841_pg1",
+    "fields": {
+      "asset_cost": 674,
+      "dealer_name": "",
+      "horse_power": 42,
+      "model_name": "Mahindra 415 DI XP PLUS",
+      "signature": {
+        "bbox": [
+          874,
+          1293,
+          1078,
+          1368
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          777,
+          1232,
+          1087,
+          1545
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 12.36
+  },
+  {
+    "confidence": 0.45,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172566189_1_pg10",
+    "fields": {
+      "asset_cost": 1200000,
+      "dealer_name": "SRI AMUTHAM TRACTORS LUTION",
+      "horse_power": 55,
+      "model_name": "Sonalika Tiger DI 55",
+      "signature": {
+        "bbox": [
+          948,
+          1323,
+          1166,
+          1415
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          894,
+          1268,
+          1184,
+          1496
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.12
+  },
+  {
+    "confidence": 0.61,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172571502_1_pg21",
+    "fields": {
+      "asset_cost": 638500,
+      "dealer_name": "PEIGE earee",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          990,
+          1317,
+          1094,
+          1401
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          922,
+          1263,
+          1132,
+          1445
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 5.39
+  },
+  {
+    "confidence": 0.58,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172576446_2_pg26",
+    "fields": {
+      "asset_cost": 796000,
+      "dealer_name": "KDTRACTORS",
+      "horse_power": 39,
+      "model_name": "Mahindra YUVO TECH+ 405",
+      "signature": {
+        "bbox": [
+          915,
+          1065,
+          1020,
+          1133
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          832,
+          1012,
+          1101,
+          1243
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 4.88
+  },
+  {
+    "confidence": 0.56,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172579986_2_pg31",
+    "fields": {
+      "asset_cost": 93359,
+      "dealer_name": "Date.. RISSA AGRO INDUSTRIES CORPORATION LTD",
+      "horse_power": 22,
+      "model_name": "Powertrac Euro 28",
+      "signature": {
+        "bbox": [
+          793,
+          1369,
+          1076,
+          1516
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          776,
+          1405,
+          1144,
+          1583
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.73
+  },
+  {
+    "confidence": 0.63,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172585685_3_pg1",
+    "fields": {
+      "asset_cost": 206025,
+      "dealer_name": "Jai Kudargarhi Tractors",
+      "horse_power": 33,
+      "model_name": "Mahindra YUVO TECH+ 265 DI",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          737,
+          1241,
+          1107,
+          1431
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 14.15
+  },
+  {
+    "confidence": 0.61,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172589759_3_pg6",
+    "fields": {
+      "asset_cost": 312000,
+      "dealer_name": "Ridqaaun",
+      "horse_power": 28,
+      "model_name": "TAFE 6028 M",
+      "signature": {
+        "bbox": [
+          975,
+          1248,
+          1164,
+          1312
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          926,
+          1180,
+          1134,
+          1370
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 6.15
+  },
+  {
+    "confidence": 0.54,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172607979_4_pg1",
+    "fields": {
+      "asset_cost": 550000,
+      "dealer_name": "",
+      "horse_power": 31,
+      "model_name": "Mahindra 265 DI SP PLUS",
+      "signature": {
+        "bbox": [
+          997,
+          1071,
+          1110,
+          1165
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          910,
+          1020,
+          1166,
+          1226
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 5.54
+  },
+  {
+    "confidence": 0.56,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172610467_2_pg21",
+    "fields": {
+      "asset_cost": 830060,
+      "dealer_name": "SABAR AGROTECH",
+      "horse_power": 56,
+      "model_name": "TAFE 5900 DI",
+      "signature": {
+        "bbox": [
+          916,
+          1240,
+          1162,
+          1319
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          865,
+          1146,
+          1162,
+          1393
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 6.17
+  },
+  {
+    "confidence": 0.59,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172611860_2_pg24",
+    "fields": {
+      "asset_cost": 2006,
+      "dealer_name": "MEENAKSHLTRACTORS",
+      "horse_power": 42,
+      "model_name": "Mahindra 415 DI XP PLUS",
+      "signature": {
+        "bbox": [
+          772,
+          1185,
+          966,
+          1272
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          713,
+          1103,
+          968,
+          1316
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 15.81
+  },
+  {
+    "confidence": 0.57,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172615270_3_pg24",
+    "fields": {
+      "asset_cost": null,
+      "dealer_name": "RaigarhAutomobiles (PLtd.",
+      "horse_power": 42,
+      "model_name": "Mahindra 415 DI XP PLUS",
+      "signature": {
+        "bbox": [
+          90,
+          1253,
+          254,
+          1321
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          41,
+          1183,
+          293,
+          1406
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 13.29
+  },
+  {
+    "confidence": 0.56,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172615659_4_pg18",
+    "fields": {
+      "asset_cost": 99,
+      "dealer_name": "SULTANIATRACTORS",
+      "horse_power": 50,
+      "model_name": "Mahindra 585 DI SP PLUS",
+      "signature": {
+        "bbox": [
+          800,
+          1250,
+          893,
+          1330
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          702,
+          1208,
+          977,
+          1410
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 5.42
+  },
+  {
+    "confidence": 0.48,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172653968_pg20",
+    "fields": {
+      "asset_cost": 69000,
+      "dealer_name": "\u0938\u0930\u0938 \u0907\u0915\u0939\u093e\u0932\u092f\u0941\u0936\u0928",
+      "horse_power": 30,
+      "model_name": "Farmtrac 30",
+      "signature": {
+        "bbox": [
+          919,
+          1302,
+          1052,
+          1378
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          817,
+          1212,
+          1187,
+          1486
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.16
+  },
+  {
+    "confidence": 0.7,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172655019_3_pg11",
+    "fields": {
+      "asset_cost": 50000,
+      "dealer_name": "r fdace",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          894,
+          1297,
+          1042,
+          1376
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          794,
+          1190,
+          1071,
+          1406
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 5.63
+  },
+  {
+    "confidence": 0.46,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172656573_1_pg4",
+    "fields": {
+      "asset_cost": 760000,
+      "dealer_name": "",
+      "horse_power": 45,
+      "model_name": "PREET 4549",
+      "signature": {
+        "bbox": [
+          937,
+          1126,
+          1157,
+          1263
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          865,
+          1057,
+          1149,
+          1284
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 4.38
+  },
+  {
+    "confidence": 0.59,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172658339_1_pg46",
+    "fields": {
+      "asset_cost": 1127,
+      "dealer_name": "MS.HIREMATHTRACTORS",
+      "horse_power": 50,
+      "model_name": "EICHER 557",
+      "signature": {
+        "bbox": [
+          852,
+          1349,
+          1078,
+          1472
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          724,
+          1255,
+          995,
+          1477
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 19.15
+  },
+  {
+    "confidence": 0.59,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172674674_2_pg26",
+    "fields": {
+      "asset_cost": 909903,
+      "dealer_name": "DISHA AGROINDUSTRIES CORPORATIONLTD",
+      "horse_power": 50,
+      "model_name": "Sonalika DI 47 RX",
+      "signature": {
+        "bbox": [
+          823,
+          991,
+          1088,
+          1093
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          763,
+          972,
+          1085,
+          1202
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 6.94
+  },
+  {
+    "confidence": 0.51,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172675384_1_pg13",
+    "fields": {
+      "asset_cost": 140001,
+      "dealer_name": "KALER & GILL TRACTORS",
+      "horse_power": 55,
+      "model_name": "Swaraj 855 FE (4WD / Protek / DT Plus)",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          807,
+          1256,
+          1182,
+          1459
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 13.38
+  },
+  {
+    "confidence": 0.56,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172676445_3_pg6",
+    "fields": {
+      "asset_cost": 92222,
+      "dealer_name": "EATEHGARH SAHIB TRACTORS",
+      "horse_power": 20,
+      "model_name": "Mahindra JIVO 225 DI",
+      "signature": {
+        "bbox": [
+          708,
+          1047,
+          880,
+          1155
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          604,
+          983,
+          880,
+          1166
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 15.89
+  },
+  {
+    "confidence": 0.61,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172677667_2_pg30",
+    "fields": {
+      "asset_cost": 700000,
+      "dealer_name": "Samtagh MOTORS",
+      "horse_power": 39,
+      "model_name": "Swaraj 735 FE",
+      "signature": {
+        "bbox": [
+          880,
+          1331,
+          1069,
+          1422
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          878,
+          1267,
+          1114,
+          1489
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 5.83
+  },
+  {
+    "confidence": 0.51,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172679241_1_pg25",
+    "fields": {
+      "asset_cost": 720000,
+      "dealer_name": "CHAMUNDESWARLAGENCIES",
+      "horse_power": 35,
+      "model_name": "Swaraj 735 FE",
+      "signature": {
+        "bbox": [
+          783,
+          1310,
+          1080,
+          1393
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          697,
+          1261,
+          1058,
+          1496
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 16.06
+  },
+  {
+    "confidence": 0.46,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172679320_3_pg18",
+    "fields": {
+      "asset_cost": 373400,
+      "dealer_name": "JAY BHAGWATITRACTORS",
+      "horse_power": 45,
+      "model_name": "Powertrac Euro 42 Plus",
+      "signature": {
+        "bbox": [
+          904,
+          1148,
+          1166,
+          1261
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          853,
+          1092,
+          1184,
+          1275
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 8.39
+  },
+  {
+    "confidence": 0.57,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172681541_2_pg30",
+    "fields": {
+      "asset_cost": 301,
+      "dealer_name": "SRLSHAKTHITRACTORS",
+      "horse_power": 36,
+      "model_name": "Sonalika Tiger DI 55",
+      "signature": {
+        "bbox": [
+          881,
+          1305,
+          1105,
+          1426
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          846,
+          1262,
+          1139,
+          1477
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 18.31
+  },
+  {
+    "confidence": 0.57,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172682048_1_pg20",
+    "fields": {
+      "asset_cost": 830000,
+      "dealer_name": "",
+      "horse_power": 50,
+      "model_name": "John Deere 5210",
+      "signature": {
+        "bbox": [
+          923,
+          1249,
+          1122,
+          1382
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          839,
+          1191,
+          1145,
+          1385
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 5.69
+  },
+  {
+    "confidence": 0.53,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172684006_1_pg42",
+    "fields": {
+      "asset_cost": null,
+      "dealer_name": "Rajyalakshmi Agencies",
+      "horse_power": 40,
+      "model_name": "Swaraj 735 XT",
+      "signature": {
+        "bbox": [
+          701,
+          985,
+          937,
+          1089
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          659,
+          922,
+          955,
+          1120
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 14.65
+  },
+  {
+    "confidence": 0.62,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172684055_1_pg35",
+    "fields": {
+      "asset_cost": null,
+      "dealer_name": "Raivalakshmi Agencies",
+      "horse_power": 35,
+      "model_name": "Swaraj 735 FE",
+      "signature": {
+        "bbox": [
+          706,
+          962,
+          986,
+          1067
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          649,
+          900,
+          954,
+          1109
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 13.81
+  },
+  {
+    "confidence": 0.6,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172685774_2_pg31",
+    "fields": {
+      "asset_cost": 22800,
+      "dealer_name": "JAYRANCHHOD TRACTOR",
+      "horse_power": 45,
+      "model_name": "Powertrac Euro 42 Plus",
+      "signature": {
+        "bbox": [
+          886,
+          1325,
+          1138,
+          1449
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          872,
+          1259,
+          1135,
+          1462
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 15.84
+  },
+  {
+    "confidence": 0.66,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172689968_1_pg14",
+    "fields": {
+      "asset_cost": 820000,
+      "dealer_name": "h|b b2 k",
+      "horse_power": 45,
+      "model_name": "New Holland 3630 TX Plus",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          736,
+          1274,
+          1132,
+          1466
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.45
+  },
+  {
+    "confidence": 0.47,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172717541_1_pg17",
+    "fields": {
+      "asset_cost": 2025,
+      "dealer_name": "SUPERSONALIKATRACTORS",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          843,
+          1313,
+          1031,
+          1416
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          729,
+          1239,
+          1063,
+          1474
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 15.63
+  },
+  {
+    "confidence": 0.63,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172723526_1_pg17",
+    "fields": {
+      "asset_cost": 720000,
+      "dealer_name": "M/s.Shree AmbaMotors",
+      "horse_power": 30,
+      "model_name": "TAFE 30 DI Dynatrack",
+      "signature": {
+        "bbox": [
+          813,
+          1215,
+          1140,
+          1315
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          815,
+          1170,
+          1092,
+          1377
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.54
+  },
+  {
+    "confidence": 0.64,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172726090_3_pg9",
+    "fields": {
+      "asset_cost": 759000,
+      "dealer_name": "M/S.SARWAMANGALATRACTDR",
+      "horse_power": 47,
+      "model_name": "Digitrac PP 43i",
+      "signature": {
+        "bbox": [
+          798,
+          1370,
+          1032,
+          1462
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          787,
+          1287,
+          1025,
+          1499
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 6.26
+  },
+  {
+    "confidence": 0.6,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172744044_2_pg27",
+    "fields": {
+      "asset_cost": 92363,
+      "dealer_name": "THE ORISSAAGROINDUSTRIES CORPORATION LTD",
+      "horse_power": 48,
+      "model_name": "Swaraj 744 XT",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          930,
+          1219,
+          1200,
+          1383
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 8.14
+  },
+  {
+    "confidence": 0.48,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172745711_3_pg8",
+    "fields": {
+      "asset_cost": 234865,
+      "dealer_name": "Far-The Orissa Agro Industries Corporation Ltd. DISTRICT MANAGEK",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          962,
+          292,
+          1137,
+          384
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          611,
+          1193,
+          1200,
+          1376
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 22.78
+  },
+  {
+    "confidence": 0.68,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172749341_2_pg28",
+    "fields": {
+      "asset_cost": 80000,
+      "dealer_name": "RIShJ'",
+      "horse_power": 39,
+      "model_name": "Sonalika DI 35",
+      "signature": {
+        "bbox": [
+          892,
+          1359,
+          1096,
+          1448
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          916,
+          1300,
+          1184,
+          1509
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 6.59
+  },
+  {
+    "confidence": 0.51,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172752186_1_pg9",
+    "fields": {
+      "asset_cost": 1325000,
+      "dealer_name": "MAATRACTORWHEELS",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          873,
+          1204,
+          1002,
+          1276
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          791,
+          1146,
+          1101,
+          1379
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 6.24
+  },
+  {
+    "confidence": 0.61,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172756379_1_pg4",
+    "fields": {
+      "asset_cost": 550000,
+      "dealer_name": "M/s.NimarMotors",
+      "horse_power": 26,
+      "model_name": "Farmtrac 26",
+      "signature": {
+        "bbox": [
+          770,
+          1163,
+          913,
+          1241
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          700,
+          1104,
+          953,
+          1289
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 8.25
+  },
+  {
+    "confidence": 0.6,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172759522_3_pg2",
+    "fields": {
+      "asset_cost": 318000,
+      "dealer_name": "KHODIYARFARMEOUIPMENTS",
+      "horse_power": 27,
+      "model_name": "Force Orchard DLX",
+      "signature": {
+        "bbox": [
+          875,
+          1248,
+          1107,
+          1401
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          893,
+          1196,
+          1187,
+          1446
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.32
+  },
+  {
+    "confidence": 0.64,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172761287_4_pg15",
+    "fields": {
+      "asset_cost": 87707,
+      "dealer_name": "ch 3ch",
+      "horse_power": 40,
+      "model_name": "EICHER 380",
+      "signature": {
+        "bbox": [
+          747,
+          1260,
+          981,
+          1359
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          776,
+          1171,
+          1096,
+          1420
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 18.77
+  },
+  {
+    "confidence": 0.61,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172761707_3_pg1",
+    "fields": {
+      "asset_cost": 62622,
+      "dealer_name": "MANJEET MOTORS",
+      "horse_power": 75,
+      "model_name": "Farmtrac 6075",
+      "signature": {
+        "bbox": [
+          925,
+          1254,
+          1129,
+          1348
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          864,
+          1202,
+          1126,
+          1373
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 17.42
+  },
+  {
+    "confidence": 0.65,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172764517_4_pg16",
+    "fields": {
+      "asset_cost": 750000,
+      "dealer_name": "\u092e\u0928\u094b\u0930\u092e\u093e \u091f\u0948\u0935\u091f\u0938",
+      "horse_power": 39,
+      "model_name": "Force Balwan 400",
+      "signature": {
+        "bbox": [
+          902,
+          1264,
+          1111,
+          1354
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          815,
+          1179,
+          1065,
+          1396
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 8.38
+  },
+  {
+    "confidence": 0.45,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172804164_1_pg14",
+    "fields": {
+      "asset_cost": 123001,
+      "dealer_name": "M/S SHRI PARASNATH ENTERPRISES",
+      "horse_power": 22,
+      "model_name": "Powertrac Euro 28",
+      "signature": {
+        "bbox": [
+          719,
+          1191,
+          968,
+          1410
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          678,
+          1196,
+          1007,
+          1400
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 17.56
+  },
+  {
+    "confidence": 0.59,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172808450_3_pg8",
+    "fields": {
+      "asset_cost": 1051000,
+      "dealer_name": "M/s.Anand Tractors",
+      "horse_power": 55,
+      "model_name": "Mahindra 575 YUVO TECH+",
+      "signature": {
+        "bbox": [
+          956,
+          1260,
+          1093,
+          1339
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          19,
+          1246,
+          317,
+          1369
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.54
+  },
+  {
+    "confidence": 0.55,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172808806_pg14",
+    "fields": {
+      "asset_cost": 11000,
+      "dealer_name": "Jt8WprlH #",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          893,
+          1235,
+          1114,
+          1319
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          833,
+          1156,
+          1164,
+          1368
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 6.46
+  },
+  {
+    "confidence": 0.49,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172809327_1_pg40",
+    "fields": {
+      "asset_cost": 800000,
+      "dealer_name": "",
+      "horse_power": 45,
+      "model_name": "Kubota MU4501",
+      "signature": {
+        "bbox": [
+          832,
+          1154,
+          961,
+          1234
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          647,
+          1251,
+          946,
+          1474
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 5.33
+  },
+  {
+    "confidence": 0.52,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172810373_2_pg34",
+    "fields": {
+      "asset_cost": 849717,
+      "dealer_name": "",
+      "horse_power": 45,
+      "model_name": "EICHER 485",
+      "signature": {
+        "bbox": [
+          754,
+          1343,
+          933,
+          1420
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          727,
+          1301,
+          1000,
+          1499
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 5.97
+  },
+  {
+    "confidence": 0.51,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172810838_3_pg4",
+    "fields": {
+      "asset_cost": null,
+      "dealer_name": "BABA AGRICULTURE&AUTOMOBILES",
+      "horse_power": 15,
+      "model_name": "Mahindra YUVRAJ 215 NXT",
+      "signature": {
+        "bbox": [
+          350,
+          1274,
+          473,
+          1372
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          282,
+          1219,
+          524,
+          1453
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 15.6
+  },
+  {
+    "confidence": 0.5,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172811933_2_pg24",
+    "fields": {
+      "asset_cost": 700000,
+      "dealer_name": "AADHYAA MOTORS",
+      "horse_power": 55,
+      "model_name": "Sonalika Tiger DI 55",
+      "signature": {
+        "bbox": [
+          822,
+          1200,
+          1097,
+          1300
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          766,
+          1192,
+          1059,
+          1409
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 6.39
+  },
+  {
+    "confidence": 0.61,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172812976_1_pg17",
+    "fields": {
+      "asset_cost": 127306,
+      "dealer_name": "JAITRACTORS",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          750,
+          1349,
+          1011,
+          1472
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          719,
+          1308,
+          1042,
+          1521
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 15.27
+  },
+  {
+    "confidence": 0.68,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172813220_3_pg6",
+    "fields": {
+      "asset_cost": null,
+      "dealer_name": "",
+      "horse_power": 50,
+      "model_name": "Mahindra NOVO 605 DI PS",
+      "signature": {
+        "bbox": [
+          139,
+          1289,
+          281,
+          1389
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          69,
+          1222,
+          350,
+          1470
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 16.42
+  },
+  {
+    "confidence": 0.65,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172814053_pg5",
+    "fields": {
+      "asset_cost": 450000,
+      "dealer_name": "H$Ip[h?!tE yr8WphI *",
+      "horse_power": 26,
+      "model_name": "Farmtrac 26",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          850,
+          1171,
+          1152,
+          1377
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 8.52
+  },
+  {
+    "confidence": 0.48,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172818806_3_pg4",
+    "fields": {
+      "asset_cost": 923637,
+      "dealer_name": "The Industries Corporation Lid. Ddisha Agro",
+      "horse_power": 48,
+      "model_name": "Swaraj 744 FE",
+      "signature": {
+        "bbox": [
+          911,
+          1315,
+          1204,
+          1419
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          863,
+          1281,
+          1142,
+          1521
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.31
+  },
+  {
+    "confidence": 0.54,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172819725_1_pg42",
+    "fields": {
+      "asset_cost": 750000,
+      "dealer_name": "Vaarahi Automotives",
+      "horse_power": 42,
+      "model_name": "Swaraj 843 XM",
+      "signature": {
+        "bbox": [
+          751,
+          1241,
+          1085,
+          1379
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          782,
+          1260,
+          1042,
+          1468
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.68
+  },
+  {
+    "confidence": 0.66,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172820354_1_pg29",
+    "fields": {
+      "asset_cost": 125001,
+      "dealer_name": "Baba Jagannath Tractors",
+      "horse_power": 42,
+      "model_name": "TAFE 42 DI",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          666,
+          1476,
+          1072,
+          1639
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 12.91
+  },
+  {
+    "confidence": 0.61,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172822122_3_pg3",
+    "fields": {
+      "asset_cost": 800000,
+      "dealer_name": "fayc",
+      "horse_power": 24,
+      "model_name": "Sonalika DI 24 RX",
+      "signature": {
+        "bbox": [
+          897,
+          1375,
+          1068,
+          1487
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          860,
+          1346,
+          1137,
+          1568
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.43
+  },
+  {
+    "confidence": 0.54,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172823208_1_pg45",
+    "fields": {
+      "asset_cost": 60000,
+      "dealer_name": "MS KRISHNA AGRO m",
+      "horse_power": 30,
+      "model_name": "TAFE 30 DI Dynatrack",
+      "signature": {
+        "bbox": [
+          753,
+          1349,
+          841,
+          1424
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          660,
+          1304,
+          928,
+          1483
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.74
+  },
+  {
+    "confidence": 0.47,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172823551_2_pg21",
+    "fields": {
+      "asset_cost": 1009598,
+      "dealer_name": "\u0915\u093f\u0936\u0936 \u0911\u091f\u094b\u092e\u094b\u092c\u093e\u0908\u0932\u0938",
+      "horse_power": 30,
+      "model_name": "Mahindra 305 Orchard",
+      "signature": {
+        "bbox": [
+          862,
+          1369,
+          1086,
+          1467
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          811,
+          1280,
+          1091,
+          1503
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.18
+  },
+  {
+    "confidence": 0.55,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172826770_1_pg14",
+    "fields": {
+      "asset_cost": 750000,
+      "dealer_name": "RGRRG",
+      "horse_power": 33,
+      "model_name": "Mahindra YUVO TECH+ 265 DI",
+      "signature": {
+        "bbox": [
+          884,
+          904,
+          1079,
+          981
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          842,
+          837,
+          1115,
+          1041
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.23
+  },
+  {
+    "confidence": 0.48,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172827538_2_pg33",
+    "fields": {
+      "asset_cost": 1000000,
+      "dealer_name": "1331,MELACHATRAM MAIN ROAD,VALAYAPETTAI VILLAGE",
+      "horse_power": 48,
+      "model_name": "Swaraj 744 FE",
+      "signature": {
+        "bbox": [
+          808,
+          1497,
+          1040,
+          1632
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          752,
+          1398,
+          1062,
+          1658
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 6.88
+  },
+  {
+    "confidence": 0.58,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172831872_1_pg4",
+    "fields": {
+      "asset_cost": 598,
+      "dealer_name": "\u0915\u093f\u0936\u0936 \u0911\u091f\u094b\u092e\u094b\u092c\u093e\u0908\u0932\u0938",
+      "horse_power": 50,
+      "model_name": "TAFE 7515",
+      "signature": {
+        "bbox": [
+          874,
+          1366,
+          1052,
+          1466
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          817,
+          1295,
+          1096,
+          1511
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.91
+  },
+  {
+    "confidence": 0.6,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172846075_3_pg11",
+    "fields": {
+      "asset_cost": 1300000,
+      "dealer_name": "I\u096e \u092c\u091c\u0930\u0902\u0917 ?",
+      "horse_power": 30,
+      "model_name": "EICHER 312",
+      "signature": {
+        "bbox": [
+          836,
+          1237,
+          1076,
+          1346
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          68,
+          1107,
+          674,
+          1356
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 8.71
+  },
+  {
+    "confidence": 0.67,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172847544_1_pg23",
+    "fields": {
+      "asset_cost": null,
+      "dealer_name": "M/SSRI KALABHAIRAVESHWARA MOTORS",
+      "horse_power": 30,
+      "model_name": "TAFE 30 DI Dynatrack",
+      "signature": {
+        "bbox": [
+          713,
+          1283,
+          1020,
+          1382
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          727,
+          1212,
+          1063,
+          1479
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 17.91
+  },
+  {
+    "confidence": 0.66,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172858047_3_pg3",
+    "fields": {
+      "asset_cost": 725,
+      "dealer_name": "\u092e\u0928\u092a\u0940\u0924 Wh?",
+      "horse_power": 42,
+      "model_name": "Digitrac PP 43i",
+      "signature": {
+        "bbox": [
+          805,
+          986,
+          924,
+          1056
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          745,
+          923,
+          972,
+          1114
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 15.1
+  },
+  {
+    "confidence": 0.6,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172861131_pg6",
+    "fields": {
+      "asset_cost": 2025,
+      "dealer_name": "",
+      "horse_power": 43,
+      "model_name": "John Deere 5042D",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          824,
+          659,
+          1129,
+          960
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.95
+  },
+  {
+    "confidence": 0.59,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172863544_2_pg20",
+    "fields": {
+      "asset_cost": 389230,
+      "dealer_name": "SABAR AGROTECH",
+      "horse_power": 22,
+      "model_name": "VST MT 224-1D",
+      "signature": {
+        "bbox": [
+          920,
+          1264,
+          1162,
+          1369
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          885,
+          1196,
+          1173,
+          1421
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 16.64
+  },
+  {
+    "confidence": 0.53,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172864137_2_pg27",
+    "fields": {
+      "asset_cost": 389230,
+      "dealer_name": "SABAR AGROTECH",
+      "horse_power": 35,
+      "model_name": "TAFE 7515",
+      "signature": {
+        "bbox": [
+          914,
+          1259,
+          1131,
+          1356
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          845,
+          1210,
+          1196,
+          1455
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 15.92
+  },
+  {
+    "confidence": 0.54,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172865861_2_pg30",
+    "fields": {
+      "asset_cost": 389230,
+      "dealer_name": "SABAR AGROTECH",
+      "horse_power": 35,
+      "model_name": "INDO FARM 2035",
+      "signature": {
+        "bbox": [
+          824,
+          1216,
+          1194,
+          1327
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          958,
+          1156,
+          1203,
+          1387
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 16.13
+  },
+  {
+    "confidence": 0.56,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172901606_1_pg23",
+    "fields": {
+      "asset_cost": 44495,
+      "dealer_name": "It should be noted that the manufacturers of goods",
+      "horse_power": 39,
+      "model_name": "VST MT 171",
+      "signature": {
+        "bbox": [
+          844,
+          1341,
+          1066,
+          1436
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          615,
+          1295,
+          901,
+          1539
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 10.93
+  },
+  {
+    "confidence": 0.57,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172903213_2_pg27",
+    "fields": {
+      "asset_cost": 66174,
+      "dealer_name": "SHREEKRUSHITRACTORS",
+      "horse_power": 22,
+      "model_name": "Sonalika DI 22",
+      "signature": {
+        "bbox": [
+          859,
+          1430,
+          980,
+          1516
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          766,
+          1345,
+          1070,
+          1597
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.92
+  },
+  {
+    "confidence": 0.61,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172903815_1_pg6",
+    "fields": {
+      "asset_cost": 750000,
+      "dealer_name": "Th\u0baa I?r?",
+      "horse_power": 24,
+      "model_name": "Sonalika DI 24 RX",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          810,
+          1184,
+          1084,
+          1384
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.78
+  },
+  {
+    "confidence": 0.49,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172904174_pg2",
+    "fields": {
+      "asset_cost": 630000,
+      "dealer_name": "",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          722,
+          1423,
+          883,
+          1499
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          637,
+          1328,
+          983,
+          1556
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 4.56
+  },
+  {
+    "confidence": 0.57,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172921150_3_pg3",
+    "fields": {
+      "asset_cost": 660000,
+      "dealer_name": "SULTANIATRACTORS",
+      "horse_power": 40,
+      "model_name": "EICHER 380",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          696,
+          1194,
+          976,
+          1418
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 8.34
+  },
+  {
+    "confidence": 0.54,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172922192_2_pg35",
+    "fields": {
+      "asset_cost": 823870,
+      "dealer_name": "OFE\u091f\u093e \u0920F THIE DISTRIC MANAGER",
+      "horse_power": 45,
+      "model_name": "Escorts 450",
+      "signature": {
+        "bbox": [
+          823,
+          1420,
+          1096,
+          1517
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          691,
+          1427,
+          1090,
+          1646
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.99
+  },
+  {
+    "confidence": 0.56,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172926676_2_pg34",
+    "fields": {
+      "asset_cost": 620000,
+      "dealer_name": ".G..s4R",
+      "horse_power": 42,
+      "model_name": "Mahindra 415 DI XP PLUS",
+      "signature": {
+        "bbox": [
+          948,
+          1362,
+          1131,
+          1416
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          911,
+          1320,
+          1148,
+          1526
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.38
+  },
+  {
+    "confidence": 0.55,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172926866_3_pg2",
+    "fields": {
+      "asset_cost": 809872,
+      "dealer_name": "Govind Tractors",
+      "horse_power": 49,
+      "model_name": "New Holland 3630 TX Plus",
+      "signature": {
+        "bbox": [
+          898,
+          1285,
+          1156,
+          1397
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          799,
+          1243,
+          1140,
+          1491
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.27
+  },
+  {
+    "confidence": 0.69,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172927528_pg22",
+    "fields": {
+      "asset_cost": 620000,
+      "dealer_name": "YASHTRACTORS",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          955,
+          1358,
+          1181,
+          1457
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          862,
+          1250,
+          1192,
+          1530
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 5.95
+  },
+  {
+    "confidence": 0.57,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172927572_1_pg18",
+    "fields": {
+      "asset_cost": null,
+      "dealer_name": "DHARANLMOTORS",
+      "horse_power": 49,
+      "model_name": "Mahindra 585 YUVO TECH+",
+      "signature": {
+        "bbox": [
+          953,
+          1320,
+          1104,
+          1383
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          888,
+          1263,
+          1182,
+          1484
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 18.92
+  },
+  {
+    "confidence": 0.68,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172928152_2_pg34",
+    "fields": {
+      "asset_cost": 635000,
+      "dealer_name": "24ef",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          848,
+          1468,
+          1020,
+          1569
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          759,
+          1315,
+          1015,
+          1597
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 6.31
+  },
+  {
+    "confidence": 0.6,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172928246_1_pg23",
+    "fields": {
+      "asset_cost": 99913,
+      "dealer_name": "NANIDRRAORS",
+      "horse_power": 15,
+      "model_name": "Mahindra 215 NXT YUVRAJ",
+      "signature": {
+        "bbox": [
+          104,
+          1153,
+          301,
+          1273
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          69,
+          1112,
+          342,
+          1298
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 19.6
+  },
+  {
+    "confidence": 0.59,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172929532_1_pg7",
+    "fields": {
+      "asset_cost": 1744,
+      "dealer_name": "M/S.HIEMKUNTTRACTORS",
+      "horse_power": 60,
+      "model_name": "Sonalika Worldtrac 60",
+      "signature": {
+        "bbox": [
+          924,
+          1204,
+          1138,
+          1308
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          864,
+          1186,
+          1133,
+          1389
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 15.91
+  },
+  {
+    "confidence": 0.48,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172929710_1_pg40",
+    "fields": {
+      "asset_cost": 491441,
+      "dealer_name": "AWANATRACTORS",
+      "horse_power": 75,
+      "model_name": "Sonalika Worldtrac 75 RX",
+      "signature": {
+        "bbox": [
+          177,
+          1291,
+          335,
+          1382
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          94,
+          1190,
+          496,
+          1463
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 14.86
+  },
+  {
+    "confidence": 0.57,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172930953_3_pg2",
+    "fields": {
+      "asset_cost": 800000,
+      "dealer_name": "95R aef",
+      "horse_power": 42,
+      "model_name": "Mahindra 415 YUVO TECH+",
+      "signature": {
+        "bbox": [
+          518,
+          1481,
+          672,
+          1568
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          778,
+          1347,
+          1046,
+          1606
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 27.05
+  },
+  {
+    "confidence": 0.59,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172932638_3_pg1",
+    "fields": {
+      "asset_cost": 373400,
+      "dealer_name": "",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          865,
+          1121,
+          1152,
+          1231
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          862,
+          1104,
+          1176,
+          1275
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 4.6
+  },
+  {
+    "confidence": 0.63,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172934286_2_pg27",
+    "fields": {
+      "asset_cost": 850000,
+      "dealer_name": "HANUMATTRACTORS",
+      "horse_power": 50,
+      "model_name": "John Deere 5050D",
+      "signature": {
+        "bbox": [
+          900,
+          1308,
+          1112,
+          1375
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          853,
+          1235,
+          1151,
+          1441
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 8.47
+  },
+  {
+    "confidence": 0.42,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172934848_2_pg32",
+    "fields": {
+      "asset_cost": 1520,
+      "dealer_name": "",
+      "horse_power": 75,
+      "model_name": "INDO FARM 4175",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          698,
+          843,
+          946,
+          1062
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 17.9
+  },
+  {
+    "confidence": 0.53,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172935426_3_pg4",
+    "fields": {
+      "asset_cost": 1000000,
+      "dealer_name": "",
+      "horse_power": 55,
+      "model_name": "Kubota MU5501",
+      "signature": {
+        "bbox": [
+          863,
+          1188,
+          1090,
+          1268
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          789,
+          1118,
+          1095,
+          1317
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 5.8
+  },
+  {
+    "confidence": 0.51,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172936612_3_pg1",
+    "fields": {
+      "asset_cost": 873999,
+      "dealer_name": "EORSSA AGRO INDUSTRIES CORPORA",
+      "horse_power": 47,
+      "model_name": "Powertrac Euro 42 Plus",
+      "signature": {
+        "bbox": [
+          849,
+          1159,
+          1195,
+          1270
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          788,
+          1224,
+          1181,
+          1376
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 11.9
+  },
+  {
+    "confidence": 0.6,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172937945_3_pg8",
+    "fields": {
+      "asset_cost": 494334,
+      "dealer_name": "",
+      "horse_power": 50,
+      "model_name": "Mahindra NOVO 605 DI PS",
+      "signature": {
+        "bbox": [
+          283,
+          1545,
+          380,
+          1628
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          221,
+          1473,
+          456,
+          1679
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 14.64
+  },
+  {
+    "confidence": 0.55,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172938591_3_pg13",
+    "fields": {
+      "asset_cost": 100000,
+      "dealer_name": "Dm Motors",
+      "horse_power": 50,
+      "model_name": "John Deere 5050D",
+      "signature": {
+        "bbox": [
+          981,
+          1356,
+          1148,
+          1437
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          905,
+          1287,
+          1162,
+          1468
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 6.62
+  },
+  {
+    "confidence": 0.46,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172938736_1_pg21",
+    "fields": {
+      "asset_cost": 840000,
+      "dealer_name": "020017107,8094830 OOODHARYTRAOTOR",
+      "horse_power": 35,
+      "model_name": "Powertrac Euro 35",
+      "signature": {
+        "bbox": [
+          828,
+          1348,
+          1160,
+          1465
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          823,
+          1257,
+          1140,
+          1569
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 11.78
+  },
+  {
+    "confidence": 0.73,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172939172_2_pg34",
+    "fields": {
+      "asset_cost": 507,
+      "dealer_name": "Hoglacacel",
+      "horse_power": 42,
+      "model_name": "Mahindra XP PLUS 415 DI",
+      "signature": {
+        "bbox": [
+          820,
+          997,
+          925,
+          1045
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          737,
+          937,
+          979,
+          1141
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 14.54
+  },
+  {
+    "confidence": 0.63,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172939577_3_pg7",
+    "fields": {
+      "asset_cost": 710000,
+      "dealer_name": "Raigarh Automobiles (P)Ltd.",
+      "horse_power": 30,
+      "model_name": "TAFE 30 DI Dynatrack",
+      "signature": {
+        "bbox": [
+          108,
+          1321,
+          243,
+          1423
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          61,
+          1235,
+          325,
+          1474
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.1
+  },
+  {
+    "confidence": 0.72,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172946013_2_pg23",
+    "fields": {
+      "asset_cost": 985039,
+      "dealer_name": "The Odisha Agro ndustries Corporation Ltd",
+      "horse_power": 17,
+      "model_name": "Mahindra NOVO 605 DI PS",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          978,
+          1048,
+          1317,
+          1227
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.73
+  },
+  {
+    "confidence": 0.55,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172960101_2_pg34",
+    "fields": {
+      "asset_cost": 87707,
+      "dealer_name": "NAYAKAUTO OARE",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          558,
+          1289,
+          777,
+          1367
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          596,
+          1154,
+          920,
+          1429
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 18.1
+  },
+  {
+    "confidence": 0.6,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172960101_3_pg1",
+    "fields": {
+      "asset_cost": 550000,
+      "dealer_name": "ch 3 CheR",
+      "horse_power": 25,
+      "model_name": "HMT 2511",
+      "signature": {
+        "bbox": [
+          889,
+          1238,
+          1024,
+          1342
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          814,
+          1140,
+          1091,
+          1403
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 8.94
+  },
+  {
+    "confidence": 0.49,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172960227_2_pg30",
+    "fields": {
+      "asset_cost": 2025,
+      "dealer_name": "E ODISHA AGRO INDUSTRIES CORPORATIONLTD",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          901,
+          1439,
+          1206,
+          1588
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          840,
+          1499,
+          1193,
+          1651
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 17.16
+  },
+  {
+    "confidence": 0.69,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172960345_pg18",
+    "fields": {
+      "asset_cost": 51000,
+      "dealer_name": "fais 3IR..CCE",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          862,
+          1325,
+          961,
+          1408
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          769,
+          1269,
+          1059,
+          1471
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.03
+  },
+  {
+    "confidence": 0.58,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172961598_1_pg14",
+    "fields": {
+      "asset_cost": 9,
+      "dealer_name": "KSANTRAGTORS",
+      "horse_power": 18,
+      "model_name": "EICHER 188",
+      "signature": {
+        "bbox": [
+          871,
+          1204,
+          1105,
+          1357
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          799,
+          1165,
+          1105,
+          1369
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.39
+  },
+  {
+    "confidence": 0.64,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172962352_3_pg9",
+    "fields": {
+      "asset_cost": 255347,
+      "dealer_name": "OFFICE OFTHEDISTRICTMANAGER THEODISHAAGROL DUSTRIESCORPORATIONLTDS",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          815,
+          1380,
+          1125,
+          1561
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 16.38
+  },
+  {
+    "confidence": 0.63,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172963098_2_pg33",
+    "fields": {
+      "asset_cost": 493118,
+      "dealer_name": "AGRAWALTROLLEYANDPUMPS",
+      "horse_power": 22,
+      "model_name": "Sonalika DI 22",
+      "signature": {
+        "bbox": [
+          867,
+          1313,
+          1139,
+          1427
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          844,
+          1226,
+          1160,
+          1463
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 19.73
+  },
+  {
+    "confidence": 0.56,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172963371_2_pg33",
+    "fields": {
+      "asset_cost": 1000000,
+      "dealer_name": "oidll",
+      "horse_power": 46,
+      "model_name": "Mahindra 265 DI XP PLUS",
+      "signature": {
+        "bbox": [
+          877,
+          1226,
+          1093,
+          1385
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          804,
+          1166,
+          1100,
+          1383
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.24
+  },
+  {
+    "confidence": 0.68,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172964354_1_pg40",
+    "fields": {
+      "asset_cost": 880000,
+      "dealer_name": "\u092e\u0942\u0915\u0942\u0902\u0935\u0930\u093e\u091c \u091f\u094d\u0945\u0935\u091f\u0938",
+      "horse_power": 25,
+      "model_name": "Swaraj XM 825",
+      "signature": {
+        "bbox": [
+          925,
+          1279,
+          1066,
+          1331
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          833,
+          1208,
+          1110,
+          1440
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.88
+  },
+  {
+    "confidence": 0.61,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172965689_pg3",
+    "fields": {
+      "asset_cost": 625000,
+      "dealer_name": "",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          724,
+          1404,
+          892,
+          1494
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          621,
+          1318,
+          924,
+          1534
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 4.59
+  },
+  {
+    "confidence": 0.59,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172966285_1_pg11",
+    "fields": {
+      "asset_cost": 303108,
+      "dealer_name": "PEIGE",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          981,
+          1324,
+          1096,
+          1396
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          917,
+          1267,
+          1119,
+          1449
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 19.42
+  },
+  {
+    "confidence": 0.64,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172968418_3_pg10",
+    "fields": {
+      "asset_cost": 9001,
+      "dealer_name": "\u092e\u0941\u0928\u092a\u0940\u0924 ?",
+      "horse_power": 89,
+      "model_name": "Digitrac PP 43i",
+      "signature": {
+        "bbox": [
+          793,
+          1002,
+          932,
+          1074
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          739,
+          935,
+          984,
+          1138
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 16.57
+  },
+  {
+    "confidence": 0.39,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "172969750_2_pg32",
+    "fields": {
+      "asset_cost": 815000,
+      "dealer_name": "",
+      "horse_power": 50,
+      "model_name": "Mahindra NOVO 605 DI PS",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          918,
+          978,
+          1186,
+          1222
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 8.53
+  },
+  {
+    "confidence": 0.69,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173061033_3_pg2",
+    "fields": {
+      "asset_cost": 20,
+      "dealer_name": "\u092a\u091f\u0947\u0932 \u092e\u094b\u091f\u0938",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          941,
+          1372,
+          1066,
+          1459
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          865,
+          1326,
+          1130,
+          1550
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 21.2
+  },
+  {
+    "confidence": 0.61,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173064332_3_pg4",
+    "fields": {
+      "asset_cost": 870000,
+      "dealer_name": "FATEHGARH SAHIB TRACTORS",
+      "horse_power": 21,
+      "model_name": "Mahindra OJA 2121",
+      "signature": {
+        "bbox": [
+          716,
+          1032,
+          881,
+          1139
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          610,
+          984,
+          881,
+          1169
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 8.85
+  },
+  {
+    "confidence": 0.62,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173067949_1_pg17",
+    "fields": {
+      "asset_cost": 10000,
+      "dealer_name": "Ms. Friends Agri Tech",
+      "horse_power": 39,
+      "model_name": "TAFE 30 DI Dynatrack",
+      "signature": {
+        "bbox": [
+          893,
+          1357,
+          1089,
+          1451
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          774,
+          1261,
+          1081,
+          1432
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.88
+  },
+  {
+    "confidence": 0.67,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173070225_1_pg11",
+    "fields": {
+      "asset_cost": 930000,
+      "dealer_name": "Shri BASAV MOTORS",
+      "horse_power": 43,
+      "model_name": "John Deere 5042D",
+      "signature": {
+        "bbox": [
+          879,
+          1251,
+          1033,
+          1329
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          812,
+          1180,
+          1063,
+          1393
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.76
+  },
+  {
+    "confidence": 0.59,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173074584_3_pg12",
+    "fields": {
+      "asset_cost": 87707,
+      "dealer_name": "ch 3 chR",
+      "horse_power": 40,
+      "model_name": "EICHER 380",
+      "signature": {
+        "bbox": [
+          914,
+          1236,
+          1056,
+          1332
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          844,
+          1130,
+          1119,
+          1388
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 21.44
+  },
+  {
+    "confidence": 0.6,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173078631_1_pg7",
+    "fields": {
+      "asset_cost": 740000,
+      "dealer_name": "",
+      "horse_power": 50,
+      "model_name": "Mahindra 265 DI XP PLUS",
+      "signature": {
+        "bbox": [
+          964,
+          1373,
+          1125,
+          1457
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          798,
+          1251,
+          1103,
+          1461
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 6.38
+  },
+  {
+    "confidence": 0.57,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173104431_2_pg31",
+    "fields": {
+      "asset_cost": 57,
+      "dealer_name": "MAURYATRACTORS No. Dear Sir",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          882,
+          1265,
+          1181,
+          1361
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          872,
+          1207,
+          1144,
+          1420
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 19.32
+  },
+  {
+    "confidence": 0.56,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173106837_1_pg41",
+    "fields": {
+      "asset_cost": 50000,
+      "dealer_name": "PATHANMOTORSANDTRACTORS",
+      "horse_power": 55,
+      "model_name": "Swaraj FE (4WD / Protek / DT Plus) 855",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          722,
+          1244,
+          1152,
+          1431
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 10.6
+  },
+  {
+    "confidence": 0.62,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173115555_1_pg32",
+    "fields": {
+      "asset_cost": 59000,
+      "dealer_name": "Auto Union (Jodhpur",
+      "horse_power": 41,
+      "model_name": "TAFE 42 DI",
+      "signature": {
+        "bbox": [
+          751,
+          1045,
+          966,
+          1183
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          644,
+          1004,
+          978,
+          1185
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.83
+  },
+  {
+    "confidence": 0.64,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173134085_1_pg14",
+    "fields": {
+      "asset_cost": 2014,
+      "dealer_name": "Ms.SHRIRAM TRACTORS",
+      "horse_power": 45,
+      "model_name": "Powertrac Euro 42 Plus",
+      "signature": {
+        "bbox": [
+          688,
+          1338,
+          977,
+          1405
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          690,
+          1255,
+          1092,
+          1497
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 16.4
+  },
+  {
+    "confidence": 0.67,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173140531_2_pg29",
+    "fields": {
+      "asset_cost": 97013,
+      "dealer_name": "COPPERCITY TRnCTORS",
+      "horse_power": 60,
+      "model_name": "Digitrac PP 51i",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          922,
+          1342,
+          1147,
+          1512
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 19.21
+  },
+  {
+    "confidence": 0.56,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173145686_1_pg16",
+    "fields": {
+      "asset_cost": 141,
+      "dealer_name": "\u0928\u0947\u0936\u0928\u0932 ?",
+      "horse_power": 35,
+      "model_name": "ACE DI 350",
+      "signature": {
+        "bbox": [
+          933,
+          1293,
+          1178,
+          1376
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          912,
+          1227,
+          1171,
+          1431
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 25.57
+  },
+  {
+    "confidence": 0.69,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173146045_2_pg19",
+    "fields": {
+      "asset_cost": 910000,
+      "dealer_name": "M.+9193107397 SWASTIKAGROSOLUTIONS",
+      "horse_power": 60,
+      "model_name": "Mahindra NOVO 605 DI",
+      "signature": {
+        "bbox": [
+          863,
+          1329,
+          1098,
+          1441
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          832,
+          1244,
+          1083,
+          1461
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.61
+  },
+  {
+    "confidence": 0.56,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173152811_1_pg9",
+    "fields": {
+      "asset_cost": 8991599,
+      "dealer_name": "11748172 PROFORMAINVOCE 8418027672 S.D.Trading Corporation 93154.27572",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          599,
+          1276,
+          748,
+          1414
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 14.61
+  },
+  {
+    "confidence": 0.59,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173152903_2_pg33",
+    "fields": {
+      "asset_cost": 10580,
+      "dealer_name": "THE ODISHA AGRO INDUSTRIES CORPORATION LTD",
+      "horse_power": 22,
+      "model_name": "Powertrac Euro 28",
+      "signature": {
+        "bbox": [
+          865,
+          1056,
+          1118,
+          1241
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          779,
+          1100,
+          1161,
+          1370
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 11.01
+  },
+  {
+    "confidence": 0.7,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173156632_2_pg22",
+    "fields": {
+      "asset_cost": 550000,
+      "dealer_name": "ISHWARMOTORS",
+      "horse_power": 35,
+      "model_name": "Powertrac Euro 35",
+      "signature": {
+        "bbox": [
+          877,
+          1226,
+          1077,
+          1328
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          808,
+          1141,
+          1095,
+          1361
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 8.79
+  },
+  {
+    "confidence": 0.57,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173175521_3_pg2",
+    "fields": {
+      "asset_cost": 1207,
+      "dealer_name": "ITRACTOR&EOUIPMENTS",
+      "horse_power": 40,
+      "model_name": "John Deere 5105",
+      "signature": {
+        "bbox": [
+          791,
+          1208,
+          985,
+          1301
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          112,
+          555,
+          371,
+          775
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 20.11
+  },
+  {
+    "confidence": 0.65,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173177534_1_pg37",
+    "fields": {
+      "asset_cost": 239,
+      "dealer_name": "Auto Union (Jodhpur",
+      "horse_power": 45,
+      "model_name": "Farmtrac 45",
+      "signature": {
+        "bbox": [
+          756,
+          1045,
+          962,
+          1177
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          710,
+          999,
+          978,
+          1163
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 20.57
+  },
+  {
+    "confidence": 0.53,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173186866_1_pg16",
+    "fields": {
+      "asset_cost": 70000,
+      "dealer_name": "Baba Jagannath Tractors",
+      "horse_power": 50,
+      "model_name": "TAFE 7515",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          715,
+          1462,
+          1082,
+          1633
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.24
+  },
+  {
+    "confidence": 0.64,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173208707_2_pg22",
+    "fields": {
+      "asset_cost": 823870,
+      "dealer_name": "OFFICE OF THE DISTRICT MANAGER",
+      "horse_power": 45,
+      "model_name": "Escorts 450",
+      "signature": {
+        "bbox": [
+          849,
+          1461,
+          1077,
+          1527
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          754,
+          1419,
+          1095,
+          1666
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 8.24
+  },
+  {
+    "confidence": 0.58,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173210220_2_pg16",
+    "fields": {
+      "asset_cost": 341302,
+      "dealer_name": "PATHANMOTORSANDTRACTORS",
+      "horse_power": 60,
+      "model_name": "Digitrac PP 51i",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          718,
+          1235,
+          1148,
+          1424
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 23.76
+  },
+  {
+    "confidence": 0.74,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173215327_3_pg12",
+    "fields": {
+      "asset_cost": 799000,
+      "dealer_name": "eta fayct Cacel",
+      "horse_power": 24,
+      "model_name": "Sonalika DI 24 RX",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          832,
+          1376,
+          1129,
+          1596
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 8.73
+  },
+  {
+    "confidence": 0.54,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173216984_2_pg34",
+    "fields": {
+      "asset_cost": 796000,
+      "dealer_name": "M/s. JASMIAN TRACTORS",
+      "horse_power": 33,
+      "model_name": "Mahindra YUVO TECH+ 265 DI",
+      "signature": {
+        "bbox": [
+          276,
+          532,
+          439,
+          606
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          853,
+          1251,
+          1132,
+          1490
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.57
+  },
+  {
+    "confidence": 0.6,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173221807_2_pg26",
+    "fields": {
+      "asset_cost": 3000,
+      "dealer_name": "\u0c0516\u0c05 J?",
+      "horse_power": 61,
+      "model_name": "ACE DI 650",
+      "signature": {
+        "bbox": [
+          974,
+          1323,
+          1150,
+          1418
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          875,
+          1259,
+          1166,
+          1477
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 12.01
+  },
+  {
+    "confidence": 0.56,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173224947_2_pg17",
+    "fields": {
+      "asset_cost": 735000,
+      "dealer_name": "srttogh MOTORS",
+      "horse_power": 39,
+      "model_name": "Swaraj 735 FE",
+      "signature": {
+        "bbox": [
+          881,
+          1405,
+          1130,
+          1508
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          864,
+          1348,
+          1149,
+          1585
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 6.81
+  },
+  {
+    "confidence": 0.59,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173247946_3_pg10",
+    "fields": {
+      "asset_cost": 1060000,
+      "dealer_name": "M/s.Anand Tractors",
+      "horse_power": 50,
+      "model_name": "Mahindra NOVO 605 DI PS",
+      "signature": {
+        "bbox": [
+          196,
+          1258,
+          338,
+          1340
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          890,
+          1173,
+          1156,
+          1369
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.13
+  },
+  {
+    "confidence": 0.49,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173254922_3_pg3",
+    "fields": {
+      "asset_cost": 872000,
+      "dealer_name": "MAGARINDUSTRIES",
+      "horse_power": 75,
+      "model_name": "Sonalika Worldtrac 75 RX",
+      "signature": {
+        "bbox": [
+          746,
+          1227,
+          968,
+          1314
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          753,
+          1215,
+          1066,
+          1448
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.93
+  },
+  {
+    "confidence": 0.49,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173255857_3_pg5",
+    "fields": {
+      "asset_cost": 850000,
+      "dealer_name": "MAGARINDUSTRIES",
+      "horse_power": 75,
+      "model_name": "Sonalika Worldtrac 75 RX",
+      "signature": {
+        "bbox": [
+          716,
+          1176,
+          1004,
+          1306
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          785,
+          1215,
+          1081,
+          1458
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 5.34
+  },
+  {
+    "confidence": 0.59,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173308285_1_pg21",
+    "fields": {
+      "asset_cost": 88,
+      "dealer_name": "KALER & GILL TRACTORS",
+      "horse_power": 22,
+      "model_name": "VST MT 224-1D",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          798,
+          1277,
+          1110,
+          1475
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.25
+  },
+  {
+    "confidence": 0.69,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173313344_1_pg19",
+    "fields": {
+      "asset_cost": 1146,
+      "dealer_name": "M/s Bharat Tractors",
+      "horse_power": 20,
+      "model_name": "Sonalika DI 20 Tiger",
+      "signature": {
+        "bbox": [
+          758,
+          1138,
+          953,
+          1261
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          648,
+          1084,
+          967,
+          1287
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 18.56
+  },
+  {
+    "confidence": 0.53,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173355468_3_pg15",
+    "fields": {
+      "asset_cost": null,
+      "dealer_name": "2aet",
+      "horse_power": 39,
+      "model_name": "Mahindra 405 YUVO TECH+",
+      "signature": {
+        "bbox": [
+          861,
+          1460,
+          1032,
+          1581
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          788,
+          1336,
+          1057,
+          1597
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 29.72
+  },
+  {
+    "confidence": 0.56,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173401982_1_pg51",
+    "fields": {
+      "asset_cost": 734722,
+      "dealer_name": "OFFICE OF THE DISTRICT MANAGER",
+      "horse_power": 45,
+      "model_name": "Powertrac Euro 42 Plus",
+      "signature": {
+        "bbox": [
+          809,
+          1388,
+          1032,
+          1464
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          697,
+          1355,
+          1033,
+          1574
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 10.43
+  },
+  {
+    "confidence": 0.65,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173407594_1_pg36",
+    "fields": {
+      "asset_cost": 850000,
+      "dealer_name": "K.SR.TRACTORS",
+      "horse_power": 45,
+      "model_name": "Powertrac Euro 42 Plus",
+      "signature": {
+        "bbox": [
+          826,
+          1332,
+          1123,
+          1416
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          822,
+          1254,
+          1123,
+          1476
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.64
+  },
+  {
+    "confidence": 0.56,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173430097_3_pg4",
+    "fields": {
+      "asset_cost": null,
+      "dealer_name": "KISSAN TRACTOR AGENCY",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          758,
+          1200,
+          954,
+          1306
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          793,
+          1173,
+          991,
+          1359
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 18.47
+  },
+  {
+    "confidence": 0.62,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173431576_1_pg15",
+    "fields": {
+      "asset_cost": 725001,
+      "dealer_name": "H16\u096c F?h",
+      "horse_power": 43,
+      "model_name": "John Deere 5042D",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          861,
+          1309,
+          1119,
+          1504
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 24.21
+  },
+  {
+    "confidence": 0.57,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173441333_1_pg28",
+    "fields": {
+      "asset_cost": 550000,
+      "dealer_name": "CHAMONDESWARL AGENCIES",
+      "horse_power": 25,
+      "model_name": "Swaraj XM 825",
+      "signature": {
+        "bbox": [
+          839,
+          1387,
+          939,
+          1451
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          692,
+          1276,
+          1073,
+          1513
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 10.19
+  },
+  {
+    "confidence": 0.69,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173444014_3_pg6",
+    "fields": {
+      "asset_cost": 820000,
+      "dealer_name": "Che ch 3",
+      "horse_power": 22,
+      "model_name": "VST MT 224-1D",
+      "signature": {
+        "bbox": [
+          892,
+          1263,
+          1054,
+          1343
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          818,
+          1182,
+          1096,
+          1423
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.8
+  },
+  {
+    "confidence": 0.53,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173450105_3_pg6",
+    "fields": {
+      "asset_cost": null,
+      "dealer_name": "Hoicll",
+      "horse_power": 46,
+      "model_name": "Farmtrac 26",
+      "signature": {
+        "bbox": [
+          881,
+          1218,
+          1107,
+          1398
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          835,
+          1145,
+          1103,
+          1370
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 17.87
+  },
+  {
+    "confidence": 0.53,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173463716_pg28",
+    "fields": {
+      "asset_cost": 55000,
+      "dealer_name": "Io \u0939\u093e\u090a\u0938",
+      "horse_power": 39,
+      "model_name": "Force Balwan 400",
+      "signature": {
+        "bbox": [
+          74,
+          1360,
+          160,
+          1435
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          825,
+          1143,
+          1104,
+          1402
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 10.36
+  },
+  {
+    "confidence": 0.54,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173465836_1_pg45",
+    "fields": {
+      "asset_cost": 1946,
+      "dealer_name": "NAARAATRACORS",
+      "horse_power": 75,
+      "model_name": "Sonalika Worldtrac 75 RX",
+      "signature": {
+        "bbox": [
+          759,
+          1438,
+          1009,
+          1550
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          709,
+          1353,
+          1038,
+          1576
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 20.16
+  },
+  {
+    "confidence": 0.54,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173466121_1_pg15",
+    "fields": {
+      "asset_cost": 7424,
+      "dealer_name": "uRqid HIGRI",
+      "horse_power": 31,
+      "model_name": "Mahindra SP PLUS 265 DI",
+      "signature": {
+        "bbox": [
+          921,
+          1355,
+          1150,
+          1470
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          882,
+          1324,
+          1159,
+          1514
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 20.83
+  },
+  {
+    "confidence": 0.62,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173467126_1_pg16",
+    "fields": {
+      "asset_cost": 100096,
+      "dealer_name": "QUOTATION/PROFORMA INVOICE",
+      "horse_power": 45,
+      "model_name": "Powertrac Euro 42 Plus",
+      "signature": {
+        "bbox": [
+          978,
+          1344,
+          1167,
+          1425
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          901,
+          1214,
+          1182,
+          1461
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 12.02
+  },
+  {
+    "confidence": 0.67,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173468705_1_pg35",
+    "fields": {
+      "asset_cost": 212121,
+      "dealer_name": "\u0917\u094b\u093f\u0935\u0902\u0926 \u094d\u0964",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          949,
+          1258,
+          1068,
+          1336
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          896,
+          1165,
+          1136,
+          1386
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 22.13
+  },
+  {
+    "confidence": 0.59,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173470257_2_pg23",
+    "fields": {
+      "asset_cost": 950000,
+      "dealer_name": "RAJ MOTORS",
+      "horse_power": 49,
+      "model_name": "New Holland 3630 TX Plus",
+      "signature": {
+        "bbox": [
+          762,
+          1224,
+          912,
+          1276
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          700,
+          1165,
+          936,
+          1364
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.44
+  },
+  {
+    "confidence": 0.53,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173470898_1_pg17",
+    "fields": {
+      "asset_cost": 830000,
+      "dealer_name": "M/s.Shree Ganesh Tractors",
+      "horse_power": 47,
+      "model_name": "Digitrac PP 43i",
+      "signature": {
+        "bbox": [
+          926,
+          1371,
+          1089,
+          1443
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          800,
+          1294,
+          1118,
+          1480
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 8.64
+  },
+  {
+    "confidence": 0.48,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173472885_2_pg24",
+    "fields": {
+      "asset_cost": 20060,
+      "dealer_name": "\u0936\u0941\u092d\u092e\u094d",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          185,
+          1302,
+          458,
+          1408
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          817,
+          1251,
+          1100,
+          1458
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.81
+  },
+  {
+    "confidence": 0.52,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173473985_1_pg21",
+    "fields": {
+      "asset_cost": 94166,
+      "dealer_name": "SALOMTRACTORS",
+      "horse_power": 45,
+      "model_name": "Escorts 450",
+      "signature": {
+        "bbox": [
+          803,
+          1378,
+          1032,
+          1456
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          763,
+          1288,
+          1101,
+          1492
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 17.3
+  },
+  {
+    "confidence": 0.66,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173479625_2_pg34",
+    "fields": {
+      "asset_cost": 233001,
+      "dealer_name": "Chandra Tractors",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          758,
+          1298,
+          1101,
+          1476
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 17.01
+  },
+  {
+    "confidence": 0.64,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173481223_2_pg25",
+    "fields": {
+      "asset_cost": 700000,
+      "dealer_name": "Rig aisasa",
+      "horse_power": 42,
+      "model_name": "Sonalika DI 42 RX",
+      "signature": {
+        "bbox": [
+          889,
+          1308,
+          1163,
+          1389
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          864,
+          1232,
+          1179,
+          1479
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 8.75
+  },
+  {
+    "confidence": 0.52,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173483259_2_pg24",
+    "fields": {
+      "asset_cost": 268555,
+      "dealer_name": "Choudhary Tractors",
+      "horse_power": 49,
+      "model_name": "New Holland 3630 TX Plus",
+      "signature": {
+        "bbox": [
+          687,
+          1188,
+          881,
+          1231
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          604,
+          1139,
+          923,
+          1323
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 19.09
+  },
+  {
+    "confidence": 0.68,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173484083_3_pg2",
+    "fields": {
+      "asset_cost": 84000,
+      "dealer_name": "",
+      "horse_power": 30,
+      "model_name": "Mahindra Orchard 305",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": null,
+        "present": false
+      }
+    },
+    "processing_time_sec": 7.78
+  },
+  {
+    "confidence": 0.44,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173484632_2_pg28",
+    "fields": {
+      "asset_cost": 1200000,
+      "dealer_name": "",
+      "horse_power": 49,
+      "model_name": "New Holland 3630 TX Plus",
+      "signature": {
+        "bbox": [
+          745,
+          1320,
+          1058,
+          1393
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          733,
+          1179,
+          1049,
+          1442
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 5.77
+  },
+  {
+    "confidence": 0.69,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173570479_1_pg26",
+    "fields": {
+      "asset_cost": 58000,
+      "dealer_name": ".8930 GS HITOMOBILE",
+      "horse_power": 39,
+      "model_name": "Sonalika Tiger DI 55",
+      "signature": {
+        "bbox": [
+          717,
+          1110,
+          898,
+          1223
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          557,
+          1055,
+          925,
+          1233
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.07
+  },
+  {
+    "confidence": 0.54,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173572590_2_pg25",
+    "fields": {
+      "asset_cost": 90453,
+      "dealer_name": "The Odisha Agro Industries Corporation Ltd",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          623,
+          868,
+          782,
+          957
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          563,
+          859,
+          811,
+          1050
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 6.33
+  },
+  {
+    "confidence": 0.44,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173573770_1_pg38",
+    "fields": {
+      "asset_cost": 591317,
+      "dealer_name": "SHIVASHANKAB MARKETING",
+      "horse_power": 29,
+      "model_name": "Swaraj 630 Target",
+      "signature": {
+        "bbox": [
+          900,
+          1253,
+          1086,
+          1339
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          783,
+          1184,
+          1083,
+          1431
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 27.72
+  },
+  {
+    "confidence": 0.56,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173579660_1_pg19",
+    "fields": {
+      "asset_cost": 94668,
+      "dealer_name": "RK.AOTOMOBLES",
+      "horse_power": 47,
+      "model_name": "Farmtrac 47",
+      "signature": {
+        "bbox": [
+          809,
+          1327,
+          1043,
+          1426
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          740,
+          1253,
+          1079,
+          1443
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 18.74
+  },
+  {
+    "confidence": 0.5,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173587365_2_pg25",
+    "fields": {
+      "asset_cost": 3000,
+      "dealer_name": "ShriJodabasaveshwar Tractors",
+      "horse_power": 32,
+      "model_name": "Sonalika DI 30 BAAGBAN",
+      "signature": {
+        "bbox": [
+          908,
+          1315,
+          1088,
+          1401
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          823,
+          1256,
+          1143,
+          1478
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 11.44
+  },
+  {
+    "confidence": 0.57,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173588817_2_pg29",
+    "fields": {
+      "asset_cost": 950000,
+      "dealer_name": "TIWARLAUTOMOBILES",
+      "horse_power": 50,
+      "model_name": "Powertrac Euro 50",
+      "signature": {
+        "bbox": [
+          741,
+          1309,
+          1053,
+          1425
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          694,
+          1236,
+          1078,
+          1485
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.52
+  },
+  {
+    "confidence": 0.63,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173597797_3_pg3",
+    "fields": {
+      "asset_cost": 550000,
+      "dealer_name": "SANDEEP EICHER",
+      "horse_power": 45,
+      "model_name": "Powertrac Euro 42 Plus",
+      "signature": {
+        "bbox": [
+          886,
+          1419,
+          997,
+          1496
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          795,
+          1325,
+          1088,
+          1551
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 21.53
+  },
+  {
+    "confidence": 0.54,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173598485_4_pg17",
+    "fields": {
+      "asset_cost": 6784,
+      "dealer_name": "IAAGROINDUSTRIES CORPORATION LTD",
+      "horse_power": 47,
+      "model_name": "Powertrac Euro 45 Plus",
+      "signature": {
+        "bbox": [
+          843,
+          1090,
+          1098,
+          1249
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          781,
+          1191,
+          1144,
+          1395
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 23.78
+  },
+  {
+    "confidence": 0.6,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173599285_2_pg32",
+    "fields": {
+      "asset_cost": 60000,
+      "dealer_name": "Jai Kudargarhi Tractors",
+      "horse_power": 30,
+      "model_name": "Mahindra Orchard 305",
+      "signature": {
+        "bbox": [
+          950,
+          1279,
+          1079,
+          1346
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          788,
+          1223,
+          1145,
+          1429
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 23.25
+  },
+  {
+    "confidence": 0.58,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173601204_1_pg10",
+    "fields": {
+      "asset_cost": 680000,
+      "dealer_name": "JASWANTSINGH &SONS",
+      "horse_power": 21,
+      "model_name": "Mahindra OJA 2121",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          273,
+          928,
+          510,
+          1119
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.4
+  },
+  {
+    "confidence": 0.57,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173607761_2_pg32",
+    "fields": {
+      "asset_cost": 880000,
+      "dealer_name": "M/s Bharat Tractors",
+      "horse_power": 50,
+      "model_name": "Sonalika DI 50 RX",
+      "signature": {
+        "bbox": [
+          782,
+          978,
+          924,
+          1051
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          640,
+          1068,
+          967,
+          1311
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 8.15
+  },
+  {
+    "confidence": 0.61,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173608042_1_pg40",
+    "fields": {
+      "asset_cost": 620000,
+      "dealer_name": "DHANVIMOTORS",
+      "horse_power": 30,
+      "model_name": "Sonalika DI 30 BAAGBAN",
+      "signature": {
+        "bbox": [
+          844,
+          1256,
+          1012,
+          1348
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          775,
+          1185,
+          1064,
+          1402
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.39
+  },
+  {
+    "confidence": 0.64,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173608870_2_pg32",
+    "fields": {
+      "asset_cost": 950000,
+      "dealer_name": "M/s R.S. AUTOMOBILES",
+      "horse_power": 47,
+      "model_name": "Digitrac PP 43i",
+      "signature": {
+        "bbox": [
+          918,
+          1471,
+          1165,
+          1556
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          876,
+          1407,
+          1190,
+          1616
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 17.17
+  },
+  {
+    "confidence": 0.68,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173613183_1_pg38",
+    "fields": {
+      "asset_cost": 2025,
+      "dealer_name": "\u0b93\u0bc7 O\u0b9c\u0bc0",
+      "horse_power": 50,
+      "model_name": "Powertrac Euro 50",
+      "signature": {
+        "bbox": [
+          866,
+          1335,
+          1148,
+          1461
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          814,
+          1266,
+          1168,
+          1476
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 25.59
+  },
+  {
+    "confidence": 0.67,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173613227_1_pg39",
+    "fields": {
+      "asset_cost": 290,
+      "dealer_name": "AutoUnion(Jodhpur",
+      "horse_power": 41,
+      "model_name": "TAFE 42 DI",
+      "signature": {
+        "bbox": [
+          766,
+          1049,
+          963,
+          1175
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          659,
+          1015,
+          969,
+          1185
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 22.03
+  },
+  {
+    "confidence": 0.57,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173615098_2_pg29",
+    "fields": {
+      "asset_cost": 306902,
+      "dealer_name": "FARMTRAC CHAMPION XP41 of42 HP",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          828,
+          1267,
+          1021,
+          1366
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          766,
+          1178,
+          1112,
+          1438
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 17.4
+  },
+  {
+    "confidence": 0.61,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173618168_2_pg27",
+    "fields": {
+      "asset_cost": 925039,
+      "dealer_name": "INDUSTRIES CORPORATION! LTD. THE ODISHA AGRO",
+      "horse_power": 33,
+      "model_name": "Mahindra YUVO TECH+ 265 DI",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          741,
+          1274,
+          1002,
+          1480
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.83
+  },
+  {
+    "confidence": 0.64,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173638911_3_pg1",
+    "fields": {
+      "asset_cost": 935039,
+      "dealer_name": "The Odisha Aoro Industries Corporation Ltd",
+      "horse_power": 47,
+      "model_name": "Mahindra YUVO TECH+ 575",
+      "signature": {
+        "bbox": [
+          1042,
+          1085,
+          1299,
+          1163
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          961,
+          1049,
+          1306,
+          1212
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.85
+  },
+  {
+    "confidence": 0.53,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173642363_3_pg3",
+    "fields": {
+      "asset_cost": 98,
+      "dealer_name": "MAA SHARDA MOTORS",
+      "horse_power": 49,
+      "model_name": "EICHER 551",
+      "signature": {
+        "bbox": [
+          801,
+          1346,
+          1006,
+          1449
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          770,
+          1285,
+          1038,
+          1483
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 7.77
+  },
+  {
+    "confidence": 0.54,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173643744_1_pg17",
+    "fields": {
+      "asset_cost": 127306,
+      "dealer_name": "HARSH ENTERPRISES",
+      "horse_power": 47,
+      "model_name": "Digitrac PP 43i",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": null,
+        "present": false
+      }
+    },
+    "processing_time_sec": 19.5
+  },
+  {
+    "confidence": 0.66,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173645201_1_pg39",
+    "fields": {
+      "asset_cost": 1946,
+      "dealer_name": "NAARADATRAOORS",
+      "horse_power": 75,
+      "model_name": "Sonalika Worldtrac 75 RX",
+      "signature": {
+        "bbox": [
+          816,
+          1397,
+          946,
+          1482
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          715,
+          1318,
+          1037,
+          1553
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 20.44
+  },
+  {
+    "confidence": 0.6,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173649319_1_pg35",
+    "fields": {
+      "asset_cost": 591102,
+      "dealer_name": "SHRLGANESH MOTORS",
+      "horse_power": 24,
+      "model_name": "Swaraj 724 XM Orchard NT",
+      "signature": {
+        "bbox": [
+          847,
+          1508,
+          1049,
+          1597
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          785,
+          1431,
+          1076,
+          1630
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 18.78
+  },
+  {
+    "confidence": 0.49,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173649668_2_pg21",
+    "fields": {
+      "asset_cost": 50000,
+      "dealer_name": "SRIRANGANATHA EICHER TRACTOR",
+      "horse_power": 46,
+      "model_name": "TAFE 45 DI",
+      "signature": {
+        "bbox": [
+          762,
+          1325,
+          1052,
+          1420
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          735,
+          1269,
+          1103,
+          1473
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.75
+  },
+  {
+    "confidence": 0.5,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173652542_3_pg7",
+    "fields": {
+      "asset_cost": 50000,
+      "dealer_name": "Soidl oas",
+      "horse_power": 30,
+      "model_name": "TAFE 30 DI Dynatrack",
+      "signature": {
+        "bbox": [
+          921,
+          1209,
+          1002,
+          1283
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          831,
+          1145,
+          1104,
+          1357
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 8.75
+  },
+  {
+    "confidence": 0.62,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173653929_1_pg38",
+    "fields": {
+      "asset_cost": 5000,
+      "dealer_name": "RAJARAJESHWARLAGENCIES",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          773,
+          1177,
+          934,
+          1248
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          739,
+          1094,
+          981,
+          1296
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 17.28
+  },
+  {
+    "confidence": 0.6,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173654803_1_pg40",
+    "fields": {
+      "asset_cost": 3642827,
+      "dealer_name": "HADOTLTRAGTORANDSALES",
+      "horse_power": 45,
+      "model_name": "Powertrac Euro 42 Plus",
+      "signature": {
+        "bbox": [
+          785,
+          1434,
+          964,
+          1491
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          767,
+          1389,
+          985,
+          1553
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 11.23
+  },
+  {
+    "confidence": 0.55,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173661108_1_pg38",
+    "fields": {
+      "asset_cost": null,
+      "dealer_name": "BeBeeso",
+      "horse_power": 45,
+      "model_name": "Powertrac Euro 42 Plus",
+      "signature": {
+        "bbox": [
+          676,
+          1156,
+          804,
+          1257
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          618,
+          1099,
+          906,
+          1358
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 18.66
+  },
+  {
+    "confidence": 0.6,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173673066_3_pg5",
+    "fields": {
+      "asset_cost": 730000,
+      "dealer_name": "RaiAutoTraders Pyt.Ltd",
+      "horse_power": 47,
+      "model_name": "Digitrac PP 43i",
+      "signature": {
+        "bbox": [
+          867,
+          1321,
+          1128,
+          1404
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          813,
+          1251,
+          1134,
+          1494
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.77
+  },
+  {
+    "confidence": 0.6,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173678841_1_pg20",
+    "fields": {
+      "asset_cost": 2025,
+      "dealer_name": "BALAJI TRACTORS",
+      "horse_power": 75,
+      "model_name": "Sonalika Worldtrac 75 RX",
+      "signature": {
+        "bbox": [
+          755,
+          1217,
+          942,
+          1308
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          659,
+          1153,
+          996,
+          1343
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 19.2
+  },
+  {
+    "confidence": 0.66,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173679254_3_pg2",
+    "fields": {
+      "asset_cost": 550000,
+      "dealer_name": "SANDEEP EICHER",
+      "horse_power": 45,
+      "model_name": "Powertrac Euro 42 Plus",
+      "signature": {
+        "bbox": [
+          889,
+          1419,
+          1023,
+          1505
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          816,
+          1308,
+          1098,
+          1543
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.09
+  },
+  {
+    "confidence": 0.73,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173679851_1_pg30",
+    "fields": {
+      "asset_cost": 2025,
+      "dealer_name": "BALAJI TRACTORS",
+      "horse_power": 75,
+      "model_name": "Sonalika Worldtrac 75 RX",
+      "signature": {
+        "bbox": [
+          785,
+          1226,
+          907,
+          1271
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          637,
+          1155,
+          998,
+          1359
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 18.97
+  },
+  {
+    "confidence": 0.63,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173681264_1_pg26",
+    "fields": {
+      "asset_cost": 2025,
+      "dealer_name": "BALAJLTRACTORS",
+      "horse_power": 75,
+      "model_name": "Sonalika Worldtrac 75 RX",
+      "signature": {
+        "bbox": [
+          761,
+          1221,
+          917,
+          1277
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          656,
+          1164,
+          995,
+          1358
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 20.25
+  },
+  {
+    "confidence": 0.72,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173684775_2_pg29",
+    "fields": {
+      "asset_cost": 389001,
+      "dealer_name": "Rai Auto Traders Pvt.Ltd",
+      "horse_power": 33,
+      "model_name": "Mahindra 265 DI YUVO TECH+",
+      "signature": {
+        "bbox": [
+          906,
+          1366,
+          1084,
+          1462
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          824,
+          1278,
+          1142,
+          1496
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 20.89
+  },
+  {
+    "confidence": 0.63,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173685104_3_pg4",
+    "fields": {
+      "asset_cost": 999999,
+      "dealer_name": "\u092e\u0947\u094b\u091f\u0947$ \u0921\u093e\u092d",
+      "horse_power": 39,
+      "model_name": "Mahindra 405 YUVO TECH+",
+      "signature": {
+        "bbox": [
+          881,
+          1306,
+          1032,
+          1381
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          783,
+          1222,
+          1080,
+          1451
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 22.49
+  },
+  {
+    "confidence": 0.6,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173686358_1_pg39",
+    "fields": {
+      "asset_cost": 717724,
+      "dealer_name": "B.G.SHETTAR&SONS",
+      "horse_power": 24,
+      "model_name": "Swaraj 724 XM Orchard NT",
+      "signature": {
+        "bbox": [
+          710,
+          1522,
+          856,
+          1625
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          634,
+          1424,
+          950,
+          1639
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 18.78
+  },
+  {
+    "confidence": 0.63,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173686375_1_pg40",
+    "fields": {
+      "asset_cost": 28205,
+      "dealer_name": "8en6",
+      "horse_power": 42,
+      "model_name": "Powertrac Euro 42 Plus",
+      "signature": {
+        "bbox": [
+          735,
+          1232,
+          927,
+          1314
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          645,
+          1125,
+          998,
+          1428
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 20.86
+  },
+  {
+    "confidence": 0.54,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173686992_1_pg29",
+    "fields": {
+      "asset_cost": 125104,
+      "dealer_name": "Guru Kirpa Automobiles",
+      "horse_power": 55,
+      "model_name": "Swaraj 855 FE (4WD / Protek / DT Plus)",
+      "signature": {
+        "bbox": [
+          571,
+          1211,
+          711,
+          1294
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          523,
+          1151,
+          786,
+          1343
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 22.16
+  },
+  {
+    "confidence": 0.6,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173688640_1_pg45",
+    "fields": {
+      "asset_cost": 825000,
+      "dealer_name": "Guru Kirpa Automobiles",
+      "horse_power": 35,
+      "model_name": "Swaraj 834 XM",
+      "signature": {
+        "bbox": [
+          583,
+          1154,
+          715,
+          1255
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          508,
+          1073,
+          772,
+          1315
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 10.35
+  },
+  {
+    "confidence": 0.47,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173689357_2_pg27",
+    "fields": {
+      "asset_cost": 650000,
+      "dealer_name": "PADARTRACORS C",
+      "horse_power": 24,
+      "model_name": "Swaraj 724 XM Orchard NT",
+      "signature": {
+        "bbox": [
+          936,
+          1282,
+          1119,
+          1361
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          894,
+          1208,
+          1173,
+          1461
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 13.44
+  },
+  {
+    "confidence": 0.68,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173692726_2_pg26",
+    "fields": {
+      "asset_cost": 389001,
+      "dealer_name": "Raj Auto Traders Pvt.Ltd",
+      "horse_power": 33,
+      "model_name": "Mahindra 265 DI YUVO TECH+",
+      "signature": {
+        "bbox": [
+          848,
+          1297,
+          1165,
+          1403
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          874,
+          1239,
+          1172,
+          1475
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 19.45
+  },
+  {
+    "confidence": 0.63,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173695126_1_pg19",
+    "fields": {
+      "asset_cost": 800000,
+      "dealer_name": "Guru Kirpa Automobiles",
+      "horse_power": 29,
+      "model_name": "Swaraj 630 Target",
+      "signature": {
+        "bbox": [
+          699,
+          1178,
+          838,
+          1258
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          625,
+          1129,
+          919,
+          1325
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 10.64
+  },
+  {
+    "confidence": 0.6,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173695530_3_pg10",
+    "fields": {
+      "asset_cost": 800000,
+      "dealer_name": "CICI",
+      "horse_power": 39,
+      "model_name": "Mahindra YUVO TECH+ 405",
+      "signature": {
+        "bbox": [
+          812,
+          1296,
+          964,
+          1384
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          735,
+          1237,
+          1013,
+          1473
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 8.21
+  },
+  {
+    "confidence": 0.64,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173727239_2_pg26",
+    "fields": {
+      "asset_cost": 364290,
+      "dealer_name": "KHODIYARFARM EOUIPMENT'S",
+      "horse_power": 27,
+      "model_name": "Force Orchard DLX",
+      "signature": {
+        "bbox": [
+          856,
+          1243,
+          1107,
+          1386
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          870,
+          1201,
+          1176,
+          1446
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 27.45
+  },
+  {
+    "confidence": 0.6,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173734055_1_pg29",
+    "fields": {
+      "asset_cost": 880000,
+      "dealer_name": "M's OMTRE",
+      "horse_power": 100,
+      "model_name": "TAFE 1002",
+      "signature": {
+        "bbox": [
+          890,
+          1267,
+          1091,
+          1327
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          838,
+          1208,
+          1116,
+          1395
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 11.25
+  },
+  {
+    "confidence": 0.54,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173766989_1_pg6",
+    "fields": {
+      "asset_cost": 1120000,
+      "dealer_name": "? \u0930\u093e\u092e",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          963,
+          1224,
+          1129,
+          1339
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          812,
+          1199,
+          1092,
+          1425
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 11.41
+  },
+  {
+    "confidence": 0.71,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173779463_1_pg5",
+    "fields": {
+      "asset_cost": 9,
+      "dealer_name": "ISHWAR MOTORS",
+      "horse_power": 33,
+      "model_name": "Mahindra XP PLUS 265 DI",
+      "signature": {
+        "bbox": [
+          248,
+          890,
+          430,
+          984
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          838,
+          1142,
+          1104,
+          1366
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.93
+  },
+  {
+    "confidence": 0.58,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173892975_1_pg13",
+    "fields": {
+      "asset_cost": 1668,
+      "dealer_name": "AMANADTOMOBLES",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          964,
+          1293,
+          1172,
+          1416
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          857,
+          1208,
+          1224,
+          1470
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 19.57
+  },
+  {
+    "confidence": 0.6,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173900637_2_pg25",
+    "fields": {
+      "asset_cost": 3535,
+      "dealer_name": "RIShJ",
+      "horse_power": 35,
+      "model_name": "Powertrac Euro 35",
+      "signature": {
+        "bbox": [
+          901,
+          1334,
+          1138,
+          1432
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          899,
+          1273,
+          1181,
+          1505
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 22.6
+  },
+  {
+    "confidence": 0.53,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "173996052_1_pg9",
+    "fields": {
+      "asset_cost": 3000,
+      "dealer_name": "SHEELAMOTORS",
+      "horse_power": 50,
+      "model_name": "Mahindra NOVO 605 DI PS",
+      "signature": {
+        "bbox": [
+          910,
+          1379,
+          1001,
+          1453
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          839,
+          1400,
+          1136,
+          1490
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 10.17
+  },
+  {
+    "confidence": 0.65,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "174037696_1_pg7",
+    "fields": {
+      "asset_cost": 100011,
+      "dealer_name": "Escorts Kub NIRMAL AUTOMOBILES",
+      "horse_power": 45,
+      "model_name": "Farmtrac 45",
+      "signature": {
+        "bbox": [
+          941,
+          1280,
+          1098,
+          1364
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          843,
+          1210,
+          1127,
+          1411
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 10.95
+  },
+  {
+    "confidence": 0.55,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018229277_2_v1_pg1",
+    "fields": {
+      "asset_cost": 820000,
+      "dealer_name": "Rggre dciier",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          323,
+          1178,
+          703,
+          1532
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 19.77
+  },
+  {
+    "confidence": 0.57,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018389956_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 1868,
+      "dealer_name": "",
+      "horse_power": 49,
+      "model_name": "New Holland 3600-2 TX",
+      "signature": {
+        "bbox": [
+          891,
+          1274,
+          1010,
+          1344
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          812,
+          1219,
+          1107,
+          1484
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 26.27
+  },
+  {
+    "confidence": 0.62,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018407639_175335053_1_pg16",
+    "fields": {
+      "asset_cost": 591123,
+      "dealer_name": "SUHAS AUTOMOTIVES",
+      "horse_power": 15,
+      "model_name": "Mahindra YUVRAJ 215 NXT",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          881,
+          1132,
+          1144,
+          1368
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 31.86
+  },
+  {
+    "confidence": 0.54,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018407639_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 2025,
+      "dealer_name": "SUHAS AUTOMOTVES",
+      "horse_power": 15,
+      "model_name": "Mahindra YUVRAJ 215 NXT",
+      "signature": {
+        "bbox": [
+          629,
+          1341,
+          818,
+          1397
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          814,
+          1136,
+          1081,
+          1381
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 30.27
+  },
+  {
+    "confidence": 0.68,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018407639_OTHERS_v2_pg1",
+    "fields": {
+      "asset_cost": 2025,
+      "dealer_name": "SUHAS AUTOMOTIVES",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          821,
+          1105,
+          1086,
+          1360
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 27.89
+  },
+  {
+    "confidence": 0.64,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018412738_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 591317,
+      "dealer_name": "Ms. HIREMATH TRACTORS",
+      "horse_power": 50,
+      "model_name": "EICHER 557",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          3012,
+          4911,
+          4334,
+          5769
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 32.96
+  },
+  {
+    "confidence": 0.63,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018416542_1_v1_pg1",
+    "fields": {
+      "asset_cost": 1,
+      "dealer_name": "ERCL",
+      "horse_power": 36,
+      "model_name": "Mahindra 365 DI 4WD JIVO",
+      "signature": {
+        "bbox": [
+          934,
+          1448,
+          1047,
+          1543
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          816,
+          1354,
+          1168,
+          1639
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 12.07
+  },
+  {
+    "confidence": 0.54,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018455419_175105661_2_pg25",
+    "fields": {
+      "asset_cost": 750000,
+      "dealer_name": "AJAY TRACTORS AND MOTORS",
+      "horse_power": 60,
+      "model_name": "Sonalika Worldtrac 60",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          838,
+          1302,
+          1111,
+          1560
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 11.9
+  },
+  {
+    "confidence": 0.47,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018455419_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 750000,
+      "dealer_name": "Ajay Tractor And Motors",
+      "horse_power": 49,
+      "model_name": "New Holland 3600-2 TX",
+      "signature": {
+        "bbox": [
+          70,
+          294,
+          282,
+          365
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          842,
+          1209,
+          1145,
+          1457
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 10.52
+  },
+  {
+    "confidence": 0.58,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018455419_OTHERS_v2_pg1",
+    "fields": {
+      "asset_cost": 56000,
+      "dealer_name": "AJAY TRACTORS AND MOTORS",
+      "horse_power": 49,
+      "model_name": "New Holland 3630 TX Plus",
+      "signature": {
+        "bbox": [
+          932,
+          1390,
+          1031,
+          1468
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          827,
+          1280,
+          1136,
+          1585
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 19.64
+  },
+  {
+    "confidence": 0.74,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018465649_175159546_1_pg5",
+    "fields": {
+      "asset_cost": 700000,
+      "dealer_name": "VIPINMOTORS",
+      "horse_power": 47,
+      "model_name": "Digitrac PP 43i",
+      "signature": {
+        "bbox": [
+          818,
+          1138,
+          941,
+          1224
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          740,
+          1074,
+          1016,
+          1273
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 10.69
+  },
+  {
+    "confidence": 0.7,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018465649_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 700000,
+      "dealer_name": "VIPIN MOTORS lerPOWERTRAC",
+      "horse_power": 25,
+      "model_name": "HMT 2511",
+      "signature": {
+        "bbox": [
+          4412,
+          6661,
+          4962,
+          7078
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          3991,
+          6337,
+          5487,
+          7511
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 14.11
+  },
+  {
+    "confidence": 0.66,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018469803_OTHERS_v3_pg1",
+    "fields": {
+      "asset_cost": 1467,
+      "dealer_name": "MOHIT TRACTORS & MOTORS",
+      "horse_power": 35,
+      "model_name": "ACE DI 350",
+      "signature": {
+        "bbox": [
+          902,
+          1317,
+          1057,
+          1394
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          800,
+          1221,
+          1170,
+          1465
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 20.19
+  },
+  {
+    "confidence": 0.59,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018503974_175272915_1_pg15",
+    "fields": {
+      "asset_cost": 639000,
+      "dealer_name": "H?h.",
+      "horse_power": 30,
+      "model_name": "TAFE 30 DI Dynatrack",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          921,
+          1314,
+          1167,
+          1530
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 12.14
+  },
+  {
+    "confidence": 0.54,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018503974_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 39000,
+      "dealer_name": "",
+      "horse_power": 41,
+      "model_name": "TAFE 42 DI",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          909,
+          1334,
+          1180,
+          1550
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 11.98
+  },
+  {
+    "confidence": 0.49,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018512084_175159349_2_pg32",
+    "fields": {
+      "asset_cost": 1979,
+      "dealer_name": "MS BHAWANI",
+      "horse_power": 47,
+      "model_name": "Digitrac PP 43i",
+      "signature": {
+        "bbox": [
+          845,
+          1324,
+          958,
+          1388
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          660,
+          1243,
+          1104,
+          1482
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 22.4
+  },
+  {
+    "confidence": 0.68,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018512084_175159349_2_pg33",
+    "fields": {
+      "asset_cost": 586104,
+      "dealer_name": "M/s. BHAVANI",
+      "horse_power": 29,
+      "model_name": "Swaraj 630 Target",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          684,
+          1249,
+          1115,
+          1475
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 24.08
+  },
+  {
+    "confidence": 0.64,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018526738_175106832_2_pg20",
+    "fields": {
+      "asset_cost": 3207,
+      "dealer_name": "PTTRACTORSPRIVATELIMITED",
+      "horse_power": 33,
+      "model_name": "Mahindra 265 DI YUVO TECH+",
+      "signature": {
+        "bbox": [
+          828,
+          1190,
+          968,
+          1268
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          764,
+          1122,
+          1018,
+          1344
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.42
+  },
+  {
+    "confidence": 0.51,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018535123_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 412201,
+      "dealer_name": "3R.U.GIT. hap? J",
+      "horse_power": 50,
+      "model_name": "Mahindra NOVO 605 DI PS",
+      "signature": {
+        "bbox": [
+          926,
+          1292,
+          1012,
+          1350
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          844,
+          1225,
+          1108,
+          1461
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 28.32
+  },
+  {
+    "confidence": 0.44,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018583433_175443681_2_pg23",
+    "fields": {
+      "asset_cost": 150000,
+      "dealer_name": "",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          470,
+          50,
+          635,
+          177
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 11.19
+  },
+  {
+    "confidence": 0.47,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018584435_175639609_pg2",
+    "fields": {
+      "asset_cost": 770000,
+      "dealer_name": "M/S SINGH FARMTRAC",
+      "horse_power": 60,
+      "model_name": "Mahindra NOVO 605 DI",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": null,
+        "present": false
+      }
+    },
+    "processing_time_sec": 11.34
+  },
+  {
+    "confidence": 0.62,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018591220_None_v1_pg1",
+    "fields": {
+      "asset_cost": 438000,
+      "dealer_name": "VSJASMIAN TRAGTORS",
+      "horse_power": 37,
+      "model_name": "Mahindra XP PLUS 275 DI",
+      "signature": {
+        "bbox": [
+          906,
+          1407,
+          1075,
+          1500
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          817,
+          1325,
+          1107,
+          1592
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 13.15
+  },
+  {
+    "confidence": 0.57,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018603703_VEHICLE QUOTATION_pg1",
+    "fields": {
+      "asset_cost": 1008,
+      "dealer_name": "MK.MOTORS",
+      "horse_power": 55,
+      "model_name": "Swaraj FE (4WD / Protek / DT Plus) 855",
+      "signature": {
+        "bbox": [
+          907,
+          1291,
+          1169,
+          1395
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          871,
+          1220,
+          1186,
+          1489
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.57
+  },
+  {
+    "confidence": 0.67,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018645014_175099338_3_pg9",
+    "fields": {
+      "asset_cost": 98900,
+      "dealer_name": "M/s Shivnath Tractors",
+      "horse_power": 30,
+      "model_name": "Mahindra 305 Orchard",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": null,
+        "present": false
+      }
+    },
+    "processing_time_sec": 9.89
+  },
+  {
+    "confidence": 0.56,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018680919_175122286_1_pg20",
+    "fields": {
+      "asset_cost": 1020080,
+      "dealer_name": "SRLRAJ AGRLFARM EQUIPMENT Authorised dealer for:MAssEY FERGUsON",
+      "horse_power": 45,
+      "model_name": "Powertrac Euro 42 Plus",
+      "signature": {
+        "bbox": [
+          915,
+          1274,
+          1159,
+          1359
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          809,
+          1217,
+          1199,
+          1515
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 10.57
+  },
+  {
+    "confidence": 0.63,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018694760_175394784_2_pg31",
+    "fields": {
+      "asset_cost": 650000,
+      "dealer_name": "EICHERTRACTORS",
+      "horse_power": 18,
+      "model_name": "EICHER 188",
+      "signature": {
+        "bbox": [
+          909,
+          1289,
+          1057,
+          1388
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          754,
+          1206,
+          1133,
+          1425
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 10.88
+  },
+  {
+    "confidence": 0.61,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018694760_175394784_2_pg34",
+    "fields": {
+      "asset_cost": 650000,
+      "dealer_name": "EICHERTRACTORS",
+      "horse_power": 18,
+      "model_name": "EICHER 188",
+      "signature": {
+        "bbox": [
+          922,
+          1290,
+          1061,
+          1389
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          784,
+          1223,
+          1122,
+          1438
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 8.13
+  },
+  {
+    "confidence": 0.47,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018695808_175276404_1_pg26",
+    "fields": {
+      "asset_cost": 8800,
+      "dealer_name": "ADHLBHAGAVANTRACTORSAND IMPLEMIENTS",
+      "horse_power": 52,
+      "model_name": "Swaraj FE 855",
+      "signature": {
+        "bbox": [
+          630,
+          1336,
+          899,
+          1415
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          845,
+          1260,
+          1084,
+          1490
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 11.23
+  },
+  {
+    "confidence": 0.51,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018695808_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 606603,
+      "dealer_name": "AADHI BHAGAVAN TRACTORS AND IMPLEMENTS",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          947,
+          1319,
+          1097,
+          1392
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          853,
+          1209,
+          1096,
+          1460
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 19.71
+  },
+  {
+    "confidence": 0.59,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018699258_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 1400000,
+      "dealer_name": "SINGH FARMING SOLUTIONS",
+      "horse_power": 24,
+      "model_name": "Swaraj 724 XM Orchard NT",
+      "signature": {
+        "bbox": [
+          798,
+          1345,
+          969,
+          1498
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": null,
+        "present": false
+      }
+    },
+    "processing_time_sec": 11.52
+  },
+  {
+    "confidence": 0.66,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018711224_175061697_1_pg9",
+    "fields": {
+      "asset_cost": 733,
+      "dealer_name": "Sharma Tractors",
+      "horse_power": 49,
+      "model_name": "New Holland 3630 TX Plus",
+      "signature": {
+        "bbox": [
+          937,
+          1356,
+          1126,
+          1448
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          948,
+          1256,
+          1205,
+          1506
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 27.09
+  },
+  {
+    "confidence": 0.67,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018711224_1_v2_pg1",
+    "fields": {
+      "asset_cost": 733,
+      "dealer_name": "Sharma Tractors",
+      "horse_power": 49,
+      "model_name": "New Holland 3630 TX Plus",
+      "signature": {
+        "bbox": [
+          933,
+          1435,
+          1100,
+          1535
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          909,
+          1342,
+          1182,
+          1604
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 25.12
+  },
+  {
+    "confidence": 0.67,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018711224_OTHERS_v2_pg1",
+    "fields": {
+      "asset_cost": 733,
+      "dealer_name": "Sharma Tractors",
+      "horse_power": 49,
+      "model_name": "New Holland 3630 TX Plus",
+      "signature": {
+        "bbox": [
+          933,
+          1435,
+          1100,
+          1535
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          909,
+          1342,
+          1182,
+          1604
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 24.44
+  },
+  {
+    "confidence": 0.51,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018721003_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 6,
+      "dealer_name": "JOHN DEERE",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          945,
+          1377,
+          1041,
+          1444
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          838,
+          1269,
+          1139,
+          1533
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 12.41
+  },
+  {
+    "confidence": 0.51,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018723959_175116426_3_pg8",
+    "fields": {
+      "asset_cost": 800000,
+      "dealer_name": "AGRIMETAUTOMOBLESPVTALTD",
+      "horse_power": 36,
+      "model_name": "Mahindra 365 DI 4WD JIVO",
+      "signature": {
+        "bbox": [
+          809,
+          1397,
+          1006,
+          1464
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          752,
+          1290,
+          1107,
+          1532
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 10.85
+  },
+  {
+    "confidence": 0.66,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018723959_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 840000,
+      "dealer_name": "AGRIMETAUTOMOBILESPVT.LTD",
+      "horse_power": 25,
+      "model_name": "HMT 2511",
+      "signature": {
+        "bbox": [
+          758,
+          1432,
+          1032,
+          1525
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          683,
+          1311,
+          1070,
+          1582
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.52
+  },
+  {
+    "confidence": 0.58,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018725471_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 99927,
+      "dealer_name": "M/s. Shree Balaji Tracto",
+      "horse_power": 45,
+      "model_name": "Powertrac Euro 42 Plus",
+      "signature": {
+        "bbox": [
+          896,
+          1547,
+          1057,
+          1592
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          759,
+          1439,
+          1126,
+          1656
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 23.67
+  },
+  {
+    "confidence": 0.66,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018736250_175197828_2_pg31",
+    "fields": {
+      "asset_cost": 50000,
+      "dealer_name": "JEEVAN & COMPANY",
+      "horse_power": 35,
+      "model_name": "New Holland 3032 Nx",
+      "signature": {
+        "bbox": [
+          877,
+          1444,
+          1051,
+          1521
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          777,
+          1395,
+          1083,
+          1608
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 10.79
+  },
+  {
+    "confidence": 0.61,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018736250_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 750000,
+      "dealer_name": "IEEV&N & COMP&NY",
+      "horse_power": 30,
+      "model_name": "TAFE 30 DI Dynatrack",
+      "signature": {
+        "bbox": [
+          931,
+          1463,
+          1104,
+          1555
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          519,
+          1496,
+          842,
+          1681
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.66
+  },
+  {
+    "confidence": 0.67,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018747361_175254055_1_pg6",
+    "fields": {
+      "asset_cost": 650000,
+      "dealer_name": "SHREE TRADERS",
+      "horse_power": 55,
+      "model_name": "Sonalika Tiger DI 55",
+      "signature": {
+        "bbox": [
+          951,
+          1337,
+          1063,
+          1420
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          848,
+          1286,
+          1176,
+          1496
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 20.69
+  },
+  {
+    "confidence": 0.73,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018747361_OTHERS_v2_pg1",
+    "fields": {
+      "asset_cost": 650000,
+      "dealer_name": "SHREE TRADERS",
+      "horse_power": 55,
+      "model_name": "Sonalika Tiger DI 55",
+      "signature": {
+        "bbox": [
+          921,
+          1374,
+          1049,
+          1462
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          860,
+          1334,
+          1096,
+          1519
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 24.03
+  },
+  {
+    "confidence": 0.54,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018750491_175077953_1_pg9",
+    "fields": {
+      "asset_cost": 830000,
+      "dealer_name": "Bace",
+      "horse_power": 29,
+      "model_name": "Swaraj 630 Target",
+      "signature": {
+        "bbox": [
+          709,
+          811,
+          834,
+          886
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          912,
+          1265,
+          1191,
+          1487
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 12.11
+  },
+  {
+    "confidence": 0.53,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018750491_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 8300001,
+      "dealer_name": "\u0941 \u092e\u0936\u0940\u0928\u0930\u0940 \u090f\u0923\u0921",
+      "horse_power": 29,
+      "model_name": "Swaraj 630 Target",
+      "signature": {
+        "bbox": [
+          981,
+          1445,
+          1183,
+          1569
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          939,
+          1349,
+          1185,
+          1645
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 10.01
+  },
+  {
+    "confidence": 0.53,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018750491_OTHERS_v2_pg1",
+    "fields": {
+      "asset_cost": 8300001,
+      "dealer_name": "HQtlat qve H?r? d[5]",
+      "horse_power": 55,
+      "model_name": "Swaraj 855 FE (4WD / Protek / DT Plus)",
+      "signature": {
+        "bbox": [
+          944,
+          1415,
+          1087,
+          1518
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          915,
+          1333,
+          1184,
+          1625
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 10.69
+  },
+  {
+    "confidence": 0.59,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018751357_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 840000,
+      "dealer_name": "AV.RELIABLE PRIVATE LIMITED",
+      "horse_power": 45,
+      "model_name": "Powertrac Euro 42 Plus",
+      "signature": {
+        "bbox": [
+          1542,
+          2145,
+          1749,
+          2256
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          1262,
+          2037,
+          1810,
+          2321
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 10.7
+  },
+  {
+    "confidence": 0.54,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018752764_175224265_1_pg15",
+    "fields": {
+      "asset_cost": 141,
+      "dealer_name": "\u0928\u0947\u0936\u0928\u0932 ?",
+      "horse_power": 24,
+      "model_name": "Mahindra 245 DI JIVO",
+      "signature": {
+        "bbox": [
+          958,
+          1332,
+          1129,
+          1432
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          876,
+          1267,
+          1150,
+          1460
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 28.7
+  },
+  {
+    "confidence": 0.59,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018752764_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 639000,
+      "dealer_name": "\u096d?/h",
+      "horse_power": 21,
+      "model_name": "Mahindra 2121 OJA",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          1171,
+          1521,
+          1488,
+          1828
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 13.68
+  },
+  {
+    "confidence": 0.51,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018769506_175246108_1_pg35",
+    "fields": {
+      "asset_cost": 141,
+      "dealer_name": "\u0928\u0947\u0936\u0928\u0932 ?",
+      "horse_power": 18,
+      "model_name": "Sonalika MM 18",
+      "signature": {
+        "bbox": [
+          960,
+          1332,
+          1161,
+          1436
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          889,
+          1267,
+          1162,
+          1463
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 28.27
+  },
+  {
+    "confidence": 0.53,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018769506_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 141,
+      "dealer_name": "?/ \u0928\u0947\u0936\u0928\u0932",
+      "horse_power": 24,
+      "model_name": "VST 927",
+      "signature": {
+        "bbox": [
+          1192,
+          1735,
+          1435,
+          1840
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          1100,
+          1579,
+          1451,
+          1893
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 31.65
+  },
+  {
+    "confidence": 0.57,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018772380_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 3035,
+      "dealer_name": "\u092e\u0925 \u091f\u0942\u0901\u0915\u091f\u0938",
+      "horse_power": 29,
+      "model_name": "Swaraj Target 630",
+      "signature": {
+        "bbox": [
+          688,
+          1272,
+          827,
+          1344
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          585,
+          1160,
+          911,
+          1404
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 30.66
+  },
+  {
+    "confidence": 0.6,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018773075_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 8500001,
+      "dealer_name": "fraR",
+      "horse_power": 49,
+      "model_name": "Mahindra 585 DI XP PLUS",
+      "signature": {
+        "bbox": [
+          923,
+          1414,
+          994,
+          1479
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          831,
+          1351,
+          1099,
+          1603
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 11.66
+  },
+  {
+    "confidence": 0.6,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018777351_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 600000,
+      "dealer_name": "Shivshanta Motors",
+      "horse_power": 24,
+      "model_name": "New Holland 3600-2 TX",
+      "signature": {
+        "bbox": [
+          815,
+          1328,
+          1050,
+          1449
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": null,
+        "present": false
+      }
+    },
+    "processing_time_sec": 10.22
+  },
+  {
+    "confidence": 0.61,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018777756_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 830000,
+      "dealer_name": "F?+? se Pey fu",
+      "horse_power": 55,
+      "model_name": "Mahindra ARJUN 605 DI i",
+      "signature": {
+        "bbox": [
+          960,
+          1401,
+          1109,
+          1522
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          863,
+          1305,
+          1183,
+          1599
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 11.05
+  },
+  {
+    "confidence": 0.65,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018778186_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 2398,
+      "dealer_name": "F?e? se ?+ sir",
+      "horse_power": 42,
+      "model_name": "Mahindra SP PLUS 415 DI",
+      "signature": {
+        "bbox": [
+          1010,
+          1362,
+          1091,
+          1441
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          843,
+          1296,
+          1182,
+          1583
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 23.24
+  },
+  {
+    "confidence": 0.53,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018790122_175101938_1_pg7",
+    "fields": {
+      "asset_cost": 960000,
+      "dealer_name": "\u0935\u0936\u0935\u0915\u092e\u093f \u0915\u0943\u093f\u0937 \u0915\u0947\u0928\u0926",
+      "horse_power": 30,
+      "model_name": "TAFE 30 DI Orchard Plus",
+      "signature": {
+        "bbox": [
+          795,
+          1192,
+          989,
+          1291
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          728,
+          1131,
+          1000,
+          1321
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 14.8
+  },
+  {
+    "confidence": 0.61,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018791585_175400562_1_pg3",
+    "fields": {
+      "asset_cost": 100059,
+      "dealer_name": "Shri Gopal Tractor",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          970,
+          1354,
+          1081,
+          1428
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          795,
+          1264,
+          1124,
+          1445
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 14.26
+  },
+  {
+    "confidence": 0.61,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018791802_1_v1_pg1",
+    "fields": {
+      "asset_cost": 8000001,
+      "dealer_name": "Baba Jagannath Tractors",
+      "horse_power": 56,
+      "model_name": "TAFE 45 DI",
+      "signature": {
+        "bbox": [
+          1109,
+          1908,
+          1504,
+          2032
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          1069,
+          1802,
+          1591,
+          2067
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 11.29
+  },
+  {
+    "confidence": 0.59,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018792533_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 414607,
+      "dealer_name": "AK.. TRACTORS",
+      "horse_power": 24,
+      "model_name": "Mahindra 245 DI JIVO",
+      "signature": {
+        "bbox": [
+          100,
+          1466,
+          282,
+          1575
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          868,
+          1315,
+          1180,
+          1615
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 29.12
+  },
+  {
+    "confidence": 0.48,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018813452_175117537_1_pg5",
+    "fields": {
+      "asset_cost": 890000,
+      "dealer_name": "",
+      "horse_power": 46,
+      "model_name": "Digitrac PP 46i",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          864,
+          954,
+          1169,
+          1160
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 12.43
+  },
+  {
+    "confidence": 0.47,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018813452_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 890000,
+      "dealer_name": "",
+      "horse_power": 50,
+      "model_name": "Digitrac PP 46i",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          746,
+          903,
+          1143,
+          1034
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 9.34
+  },
+  {
+    "confidence": 0.62,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018816473_1_v1_pg1",
+    "fields": {
+      "asset_cost": 537800,
+      "dealer_name": "AMS TRACTORS",
+      "horse_power": 45,
+      "model_name": "Powertrac Euro 42 Plus",
+      "signature": {
+        "bbox": [
+          833,
+          1456,
+          1099,
+          1581
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": null,
+        "present": false
+      }
+    },
+    "processing_time_sec": 23.08
+  },
+  {
+    "confidence": 0.84,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018818219_Proforma_pg1",
+    "fields": {
+      "asset_cost": 880000,
+      "dealer_name": "",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          688,
+          956,
+          807,
+          1069
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 6.35
+  },
+  {
+    "confidence": 0.72,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018820019_175153084_1_pg24",
+    "fields": {
+      "asset_cost": 1432,
+      "dealer_name": "OTOC Ted",
+      "horse_power": 45,
+      "model_name": "Kubota MU4501",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          789,
+          1230,
+          1138,
+          1404
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 31.58
+  },
+  {
+    "confidence": 0.58,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018820326_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 540000,
+      "dealer_name": "1CtOrs GSTIN:06ABIFR3932P1Z",
+      "horse_power": 35,
+      "model_name": "Escorts 335",
+      "signature": {
+        "bbox": [
+          1362,
+          2115,
+          1698,
+          2261
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          1255,
+          2000,
+          1742,
+          2310
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 13.5
+  },
+  {
+    "confidence": 0.63,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018822745_175200356_2_pg39",
+    "fields": {
+      "asset_cost": 6876801,
+      "dealer_name": "I??P \u091f\u0947\u0935\u091f\u0938",
+      "horse_power": 45,
+      "model_name": "Powertrac Euro 45 Plus",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          21,
+          762,
+          283,
+          984
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 10.96
+  },
+  {
+    "confidence": 0.68,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018824033_175118795_2_pg33",
+    "fields": {
+      "asset_cost": 30115,
+      "dealer_name": "\u091f\u0947$\u096e\u0938 \u096e \u091d\u092d\u0902 Ewc\u0940\u092d\u0947\u0928? \u0905\u092d\u0968",
+      "horse_power": 39,
+      "model_name": "Powertrac Euro 39",
+      "signature": {
+        "bbox": [
+          786,
+          1105,
+          904,
+          1187
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          700,
+          1014,
+          983,
+          1260
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 33.43
+  },
+  {
+    "confidence": 0.74,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018824033_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": null,
+      "dealer_name": "\u091d\u092d Jxe\u0940\u092d\u0947o? \u0938\u092e?",
+      "horse_power": 39,
+      "model_name": "Powertrac Euro 39",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          1041,
+          1642,
+          1496,
+          2048
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 35.95
+  },
+  {
+    "confidence": 0.63,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018855987_175331555_1_pg20",
+    "fields": {
+      "asset_cost": 58438,
+      "dealer_name": "PEIGE He",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": [
+          992,
+          1296,
+          1124,
+          1374
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          922,
+          1244,
+          1152,
+          1419
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 10.7
+  },
+  {
+    "confidence": 0.64,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018855987_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 584381,
+      "dealer_name": "\u0928\u0947\u0936\u0928\u0932 \u0938\u0947\u0932\u0938",
+      "horse_power": 35,
+      "model_name": "New Holland 3032 Nx",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          939,
+          1337,
+          1176,
+          1517
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 11.85
+  },
+  {
+    "confidence": 0.66,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018862558_175238148_2_pg33",
+    "fields": {
+      "asset_cost": 93362,
+      "dealer_name": "RATION LTD Ave",
+      "horse_power": 55,
+      "model_name": "Sonalika Tiger DI 55",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": null,
+        "present": false
+      }
+    },
+    "processing_time_sec": 13.24
+  },
+  {
+    "confidence": 0.51,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018866223_175262018_2_pg12",
+    "fields": {
+      "asset_cost": null,
+      "dealer_name": "BABA AGRICULTURE &AUTOMOBILES",
+      "horse_power": 15,
+      "model_name": "Mahindra YUVRAJ 215 NXT",
+      "signature": {
+        "bbox": [
+          596,
+          1245,
+          759,
+          1340
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": null,
+        "present": false
+      }
+    },
+    "processing_time_sec": 25.43
+  },
+  {
+    "confidence": 0.55,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018866223_1_v1_pg1",
+    "fields": {
+      "asset_cost": null,
+      "dealer_name": "mannarad BABA AGRICULTURE &AUTOMOBILES",
+      "horse_power": 50,
+      "model_name": "Mahindra 605 DI MS ARJUN",
+      "signature": {
+        "bbox": [
+          374,
+          1297,
+          496,
+          1382
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          586,
+          1179,
+          865,
+          1459
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 28.83
+  },
+  {
+    "confidence": 0.56,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018869256_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 690000,
+      "dealer_name": "Mundel Trade Private Limited",
+      "horse_power": 11,
+      "model_name": "Swaraj Code",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          996,
+          1731,
+          1368,
+          1918
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 10.89
+  },
+  {
+    "confidence": 0.6,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018869965_175601032_2_pg33",
+    "fields": {
+      "asset_cost": 90000,
+      "dealer_name": "\u091f\u0947$\u0968\u092d IK \u0940\u092d\u0940\u091f\u0947\u0921 \u0930\u0925\u0968\u0926\u093e\u0927\u0928",
+      "horse_power": 35,
+      "model_name": "Escorts 335",
+      "signature": {
+        "bbox": null,
+        "present": false
+      },
+      "stamp": {
+        "bbox": [
+          844,
+          1325,
+          1055,
+          1550
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 28.54
+  },
+  {
+    "confidence": 0.49,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018869965_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 90000,
+      "dealer_name": "s. s",
+      "horse_power": 35,
+      "model_name": "Escorts 335",
+      "signature": {
+        "bbox": [
+          886,
+          1893,
+          1241,
+          1997
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          963,
+          1804,
+          1232,
+          2098
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 28.86
+  },
+  {
+    "confidence": 0.49,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018870785_1_v1_pg1",
+    "fields": {
+      "asset_cost": 850000,
+      "dealer_name": "SALOM TRACTORS",
+      "horse_power": 55,
+      "model_name": "Swaraj 855 FE (4WD / Protek / DT Plus)",
+      "signature": {
+        "bbox": [
+          850,
+          1464,
+          1075,
+          1549
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          793,
+          1372,
+          1148,
+          1584
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 17.19
+  },
+  {
+    "confidence": 0.65,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018874456_OTHERS_v1_pg1",
+    "fields": {
+      "asset_cost": 1,
+      "dealer_name": "RATHI MOTORS (SHUJALPUR) PVT.LTD.",
+      "horse_power": 49,
+      "model_name": "Mahindra 585 YUVO TECH+",
+      "signature": {
+        "bbox": [
+          913,
+          1429,
+          1086,
+          1537
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          862,
+          1358,
+          1174,
+          1610
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 12.84
+  },
+  {
+    "confidence": 0.57,
+    "cost_estimate_usd": 0.002,
+    "doc_id": "90018881950_1_v1_pg1",
+    "fields": {
+      "asset_cost": 52108,
+      "dealer_name": "",
+      "horse_power": 33,
+      "model_name": "Mahindra 265 DI XP PLUS",
+      "signature": {
+        "bbox": [
+          964,
+          1398,
+          1107,
+          1475
+        ],
+        "present": true
+      },
+      "stamp": {
+        "bbox": [
+          880,
+          1316,
+          1135,
+          1526
+        ],
+        "present": true
+      }
+    },
+    "processing_time_sec": 25.64
+  }
+]
