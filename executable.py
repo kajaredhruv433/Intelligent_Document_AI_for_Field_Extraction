@@ -358,12 +358,23 @@ def force_normalize_model(text, detected_hp=None):
 # LOAD YOLO MODELS ONCE
 # ==================================================
 
+def get_model_path(model_filename):
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    same_dir = os.path.join(script_dir, model_filename)
+    if os.path.exists(same_dir):
+        return same_dir
+    parent_dir = os.path.join(script_dir, "..", model_filename)
+    if os.path.exists(parent_dir):
+        return parent_dir
+    return model_filename
+
+
 models = {
-    "stamp": YOLO("../stamp.pt"),
-    "signature": YOLO("../sign.pt"),
-    "dealer": YOLO("../dealer.pt"),
-    "amount": YOLO("../amount.pt"),
-    "model": YOLO("../model.pt")
+    "stamp": YOLO(get_model_path("stamp.pt")),
+    "signature": YOLO(get_model_path("sign.pt")),
+    "dealer": YOLO(get_model_path("dealer.pt")),
+    "amount": YOLO(get_model_path("amount.pt")),
+    "model": YOLO(get_model_path("model.pt"))
 }
 
 # ==================================================
