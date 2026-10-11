@@ -1,7 +1,7 @@
 # Intelligent Document AI for Field Extraction
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white" alt="Python Version" />
+  <img src="https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white" alt="Python Version" />
   <img src="https://img.shields.io/badge/YOLOv8-Ultralytics-00ffff?logo=yolo&logoColor=white" alt="YOLOv8" />
   <img src="https://img.shields.io/badge/OCR-PaddleOCR-red?logo=baidu&logoColor=white" alt="PaddleOCR" />
   <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-green?logo=opencv&logoColor=white" alt="OpenCV" />
@@ -10,6 +10,27 @@
 </p>
 
 An enterprise-grade, end-to-end Document AI system engineered for automated field extraction, layout analysis, and authentication verification from tractor loan quotations, dealer invoices, and financial receipts. The system pairs a modular ensemble of five fine-tuned YOLOv8 computer vision detectors with a cascaded multilingual PaddleOCR engine and a domain-specific normalization and catalog disambiguation subsystem.
+
+---
+
+## Table of Contents
+
+- [Executive Summary & Highlights](#executive-summary--highlights)
+- [Problem Statement & Industry Context](#problem-statement--industry-context)
+- [System Architecture](#system-architecture)
+- [Detailed Pipeline Breakdown](#detailed-pipeline-breakdown)
+  - [1. Vision and Layout Decomposition Ensemble](#1-vision-and-layout-decomposition-ensemble)
+  - [2. Cascaded Multilingual OCR Engine](#2-cascaded-multilingual-ocr-engine)
+  - [3. Normalization & Disambiguation Subsystem](#3-normalization--disambiguation-subsystem)
+- [Master Tractor Catalog Coverage](#master-tractor-catalog-coverage)
+- [Runtime Performance & Cost Profile](#runtime-performance--cost-profile)
+- [Model Evaluation & Training Metrics](#model-evaluation--training-metrics)
+- [Repository Structure](#repository-structure)
+- [Installation & Setup](#installation--setup)
+- [Usage Guide](#usage-guide)
+- [JSON Output Schema Specification](#json-output-schema-specification)
+- [Dataset Annotation Tool](#dataset-annotation-tool-preparationlabellerpy)
+- [Authors & Acknowledgments](#authors--acknowledgments)
 
 ---
 
@@ -25,6 +46,26 @@ This repository implements a modular, high-throughput pipeline designed to overc
 - Decoupled Modular Detectors: Employs five independent YOLOv8 detectors fine-tuned on isolated document regions, eliminating cross-class interference and aspect-ratio conflicts.
 - Physical Verification: Pinpoints authorized signatures and official dealer stamps with precise pixel-level bounding boxes [x1, y1, x2, y2].
 - Domain-Aware Entity Normalization: Resolves tractor makes, models, and horsepower ratings against a comprehensive catalog of 20+ leading Indian manufacturers.
+
+---
+
+## Problem Statement & Industry Context
+
+In rural agricultural finance, tractor loans require verification of pro-forma quotation documents issued by local dealerships before credit sanctioning. Credit underwriters face several hurdles when assessing these documents manually:
+
+1. Unconstrained Layout Variation: Dealerships utilize custom billing systems, varying invoice layouts, and ad-hoc receipt templates.
+2. Poor Capture Quality: Quotations are photographed in rural branches using mobile phones with perspective skew, glare, uneven shadows, folds, and low resolution.
+3. Multilingual Invoices: Key metadata (dealer name, customer details, model names) are often printed in regional Indian languages (Hindi, Marathi, Tamil, Telugu, Kannada) alongside English.
+4. Fraud Risk & Verification: Underwriting policies mandate the presence of both an authorized dealership stamp and an authorized signature. Verifying their visual presence automatically is critical to fraud detection.
+5. Entity Ambiguity: Model names like "744 FE" or "DI 35" frequently appear without the manufacturer name or with inverted word order (e.g., "XM Orchard NT 724" instead of "Swaraj 724 XM Orchard NT").
+
+This project automates the extraction of:
+- Dealer Name
+- Canonical Model Name (Brand + Variant)
+- Horsepower (HP)
+- Asset Cost (Quotation Total)
+- Stamp Presence & Bounding Box Coordinates
+- Signature Presence & Bounding Box Coordinates
 
 ---
 
@@ -105,7 +146,7 @@ flowchart TD
 
 ### 1. Vision and Layout Decomposition Ensemble
 
-Monolithic object detection models struggle on document analysis due to severe class imbalance, extreme aspect-ratio discrepancies (e.g., elongated dealer headers vs. circular stamps vs. irregular signatures), and inconsistent visual features.
+Monolithic object detection models struggle on document analysis due to severe class imbalance, extreme aspect-ratio discrepancies (such as elongated dealer headers vs circular stamps vs irregular signatures), and inconsistent visual features.
 
 To resolve this, the system deploys five dedicated YOLOv8 Nano detectors:
 
@@ -160,12 +201,12 @@ $$\text{Quality Score}(T) = \text{len}(T) \times \left( \frac{\sum_{c \in T} \ma
 
 ### 3. Normalization & Disambiguation Subsystem
 
-Raw OCR strings frequently contain scanning artifacts, currency glyphs, and OCR character substitutions. The normalization subsystem cleans and validates all extracted values:
+Raw OCR strings frequently contain scanning artifacts, currency glyphs, and character substitutions. The normalization subsystem cleans and validates all extracted values:
 
 ```mermaid
 flowchart LR
     subgraph ModelHP["Tractor Model & HP Disambiguation"]
-        RawModel["Raw Model OCR Text"] --> RegexHP["Regex HP Matcher: r'\b(\d{2})\s*(HP|एचपी)\b'"]
+        RawModel["Raw Model OCR Text"] --> RegexHP["Regex HP Matcher: r'\b(\d{2})\s?(HP|एचपी)\b'"]
         RawModel --> SanitizeModel["String Sanitization & Alphanumeric Tokenization"]
         SanitizeModel --> FuzzyMatch["SequenceMatcher vs Master Catalog (TRACTOR_MODELS)"]
         FuzzyMatch --> TopMatch["Best Canonical Brand + Model"]
@@ -198,6 +239,24 @@ Fuzzy matching is computed using the Ratcliff-Obershelp similarity metric via Py
 $$\text{Similarity}(S_1, S_2) = \frac{2 \times M}{|S_1| + |S_2|}$$
 
 where M is the number of matching characters within non-overlapping maximal common substrings.
+
+---
+
+## Master Tractor Catalog Coverage
+
+The built-in master dictionary in [executable.py](file:///c:/Users/Juhi/Music/git%20project/AI-Detective-Voice-Tone-Deception-Analysis/executable.py) covers over 150 variants across 20+ leading tractor manufacturers:
+
+| Brand / Manufacturer | Key Variants Covered | HP Range |
+| :--- | :--- | :---: |
+| Swaraj | Code, Target 630, 717, 724 XM, 825 XM, 834 XM, 735 FE, 735 XT, 744 FE, 744 XT, 744 XM, 843 XM, 855 FE, 960 FE, 963 FE, 969 FE, 978 FE | 11 – 75 HP |
+| Mahindra | OJA (2121–3140), YUVRAJ 215, JIVO (225–365 DI), XP PLUS (265–585), SP PLUS (265–585), YUVO TECH+ (265–585), ARJUN 605, NOVO (605–755) | 15 – 75 HP |
+| TAFE | 30 DI Orchard Plus, 30 DI Dynatrack, 42 DI, 45 DI, 5900 DI, 6028 M, 7515, 1002 | 28 – 100 HP |
+| Sonalika | MM 18, DI 20 Tiger, DI 22, DI 24 RX, DI 26, DI 30 BAAGBAN, DI 32, DI 35 RX, DI 42 RX, Sikander, DI 50 RX, Tiger DI 55, Worldtrac (60, 75, 90) | 18 – 90 HP |
+| Escorts / Farmtrac / Powertrac / Digitrac | Farmtrac (26 to 6075), Powertrac Euro (28 to 60), Digitrac (PP 43i, PP 46i, PP 51i), Escorts (335, 375, 450, 550) | 22 – 75 HP |
+| John Deere | 3028 EN, 3036E, 5042D, 5045D, 5050D, 5210, 5055E, 5310, 5060E, 5075E, 5105, 5405 | 28 – 75 HP |
+| New Holland | Simba 20, 3032 Nx, 3600-2 TX, 3600 TX, 4710, 3630 TX Plus, 5620 TX Plus, 5630 TX Plus | 17 – 75 HP |
+| Kubota & Force | Kubota (NeoStar A211N, B2441, MU4501, MU5501), Force (Orchard DLX, Balwan 400, 500, 600) | 21 – 60 HP |
+| Regional & Specialized OEMs | PREET, VST (MT 171, MT 180, MT 224, 927), CAPTAIN, ACE, INDO FARM, HMT, EICHER (188 to 557), STANDARD | 17 – 75 HP |
 
 ---
 
@@ -327,9 +386,9 @@ Intelligent_Document_AI_for_Field_Extraction/
 ## Installation & Setup
 
 ### Prerequisites
-- Python 3.8, 3.9, 3.10, or 3.11
+- Python 3.9, 3.10, or 3.11
 - Operating System: Windows, Linux, or macOS
-- (Optional) NVIDIA CUDA-compatible GPU (Compute Capability 7.0+) for accelerated inference
+- (Optional) NVIDIA CUDA-compatible GPU for accelerated inference
 
 ### 1. Clone the Repository
 ```bash
@@ -337,18 +396,21 @@ git clone https://github.com/kajaredhruv433/Intelligent_Document_AI_for_Field_Ex
 cd Intelligent_Document_AI_for_Field_Extraction
 ```
 
-### 2. Install Python Dependencies
+### 2. Set Up Virtual Environment (Recommended)
+```bash
+# Windows
+python -m venv venv
+.\venv\Scripts\activate
+
+# Linux / macOS
+python3 -m venv venv
+source venv/bin/activate
+```
+
+### 3. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
-
-Direct installation alternative:
-```bash
-pip install ultralytics paddlepaddle paddleocr opencv-python
-```
-
-> [!NOTE]
-> For GPU acceleration, install the CUDA-enabled builds of paddlepaddle-gpu and torch matching your local CUDA toolkit version.
 
 ---
 
@@ -421,7 +483,7 @@ Each processed quotation generates a structured output formatted as follows:
 
 ## Dataset Annotation Tool (`preparation/labeller.py`)
 
-To streamline data labeling on 4K/high-resolution mobile camera quotation scans, the project includes an interactive annotation tool:
+To streamline data labeling on high-resolution mobile camera quotation scans, the project includes an interactive annotation tool:
 
 - Dynamic Display Rescaling: Automatically queries the Windows API (ctypes.windll.user32) to fit images to 90% of screen height without distortion or window cropping.
 - YOLO Coordinate Conversion: Automatically maps mouse ROI drags on the resized viewport back to native high-resolution coordinates and formats them into normalized YOLO annotation format (<class_id> <x_center> <y_center> <width> <height>).
@@ -432,5 +494,8 @@ To streamline data labeling on 4K/high-resolution mobile camera quotation scans,
 ## Authors & Acknowledgments
 
 - Lead Developer: Dhruv Kajare
-- Hackathon: Convolve Hackathon Submission
+- Team Members:
+  - Juhi Nale
+  - Neha Tarmale
+- Event: Convolve Hackathon Submission
 - Domain: Intelligent Document Processing (IDP) / Agrifinance Document AI
